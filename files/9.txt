@@ -1,0 +1,1473 @@
+
+This is a good article. Click here for more information.
+Page semi-protected
+Twitter
+From Wikipedia, the free encyclopedia
+Jump to navigation
+Jump to search
+"Tweeting" and "Tweeted" redirect here. For other uses, see Bird vocalization and Tweet.
+Twitter, Inc.Twitter bird logo 2012.svg
+Screenshot
+Type of business	Public
+Type of site
+	News, social networking service
+Available in	Multilingual
+Traded as	
+
+    NYSE: TWTR
+    S&P 500 Component
+
+Founded	March 21, 2006; 14 years ago
+Headquarters	San Francisco, California United States
+Area served	Worldwide
+Founder(s)	
+
+    Jack Dorsey
+    Noah Glass
+    Biz Stone
+    Evan Williams
+
+Key people	
+
+    Omid Kordestani
+    (Executive Chairman)[1]
+    Jack Dorsey
+    (CEO)
+    Ned Segal
+    (CFO)
+
+Industry	Internet
+Revenue	Increase US$3.46 billion (2019)
+Operating income	Increase US$453 million (2018)
+Net income	Increase US$1.47 billion (2019)
+Total assets	Increase US$10.16 billion (2018)
+Total equity	Increase US$6.8 billion (2018)
+Employees	4,600 (September 2019)[2]
+Subsidiaries	
+
+    Vine
+    Periscope
+    MoPub
+
+URL	twitter.com Edit this at Wikidata
+Alexa rank	Decrease 52 (Global, July 2020)[3]
+Registration	Required
+Users	
+
+    321 million active users
+    (February 2019)
+
+Launched	July 15, 2006; 14 years ago
+Current status	Active
+Native client(s) on	iOS, Android, Windows Phone, Microsoft Windows, MacOS, Web
+Written in	
+
+    Java
+    Ruby
+    Scala
+    JavaScript
+
+[4][5][6][7][8][9][10][11][12][13][14][15]
+
+Twitter (/ˈtwɪtər/) is an American microblogging and social networking service on which users post and interact with messages known as "tweets". Registered users can post, like, and retweet tweets, but unregistered users can only read them. Users access Twitter through its website interface, through Short Message Service (SMS) or its mobile-device application software ("app").[16] Twitter, Inc. is based in San Francisco, California, and has more than 25 offices around the world.[17] Tweets were originally restricted to 140 characters, but was doubled to 280 for non-CJK languages in November 2017.[18] Audio and video tweets remain limited to 140 seconds for most accounts.
+
+Twitter was created by Jack Dorsey, Noah Glass, Biz Stone, and Evan Williams in March 2006 and launched in July of that year. By 2012, more than 100 million users posted 340 million tweets a day,[19] and the service handled an average of 1.6 billion search queries per day.[20][21][22] In 2013, it was one of the ten most-visited websites and has been described as "the SMS of the Internet".[23][24] As of 2018, Twitter had more than 321 million monthly active users.[12]
+Contents
+
+    1 History
+        1.1 Creation and initial reaction
+        1.2 2007–2010
+        1.3 2011–2014
+        1.4 2015–2016
+        1.5 2017–2020
+    2 Leadership
+    3 Appearance and features
+        3.1 Logo and font
+        3.2 Tweets
+            3.2.1 Content
+            3.2.2 Format
+                3.2.2.1 Hashtags, usernames, retweets and replies
+                3.2.2.2 Twitter Lists
+                3.2.2.3 Using SMS
+                3.2.2.4 Character limits
+                3.2.2.5 Image captions
+                3.2.2.6 URL shortener
+            3.2.3 Trending topics
+            3.2.4 Moments
+        3.3 Adding and following content
+        3.4 Verified accounts
+        3.5 Mobile
+        3.6 Third-party applications
+        3.7 Related headlines feature
+        3.8 Polls
+        3.9 Integrated photo-sharing service
+        3.10 Streaming video
+        3.11 Account archival
+            3.11.1 Browsable legacy Twitter archive format
+            3.11.2 New machine-readable archive format
+    4 Usage
+        4.1 Demographics
+        4.2 Decline and levels of use
+    5 Finances
+        5.1 Funding
+        5.2 Revenue sources
+        5.3 Stock launch and tax issues
+        5.4 Advertising bans
+    6 Technology
+        6.1 Implementation
+        6.2 Interface
+        6.3 Outages
+    7 User accounts
+        7.1 Privacy, security and harassment
+        7.2 Suspect and contested accounts
+        7.3 Malicious and fake accounts
+        7.4 Twitter bots
+            7.4.1 Effects
+    8 Developers
+        8.1 Innovators patent agreement
+        8.2 Open source
+    9 Society
+        9.1 Usage
+            9.1.1 Protesters
+            9.1.2 Governments
+        9.2 Censorship
+            9.2.1 Hashtag suppression
+            9.2.2 Trust & Safety Council
+        9.3 Impact
+            9.3.1 Instant, short, and frequent communication
+            9.3.2 Emergency use
+            9.3.3 Education
+            9.3.4 Public figures
+            9.3.5 World leaders
+            9.3.6 Religion
+    10 Television
+    11 Statistics
+        11.1 User accounts with large follower base
+        11.2 Oldest accounts
+        11.3 Record tweets
+    12 See also
+    13 References
+    14 Further reading
+    15 External links
+
+History
+Further information: Timeline of Twitter
+Creation and initial reaction
+A sketch, c. 2006, by Jack Dorsey, envisioning an SMS-based social network.
+
+Twitter's origins lie in a "daylong brainstorming session" held by board members of the podcasting company Odeo. Jack Dorsey, then an undergraduate student at New York University, introduced the idea of an individual using an SMS service to communicate with a small group.[25][26] The original project code name for the service was twttr, an idea that Williams later ascribed to Noah Glass,[27] inspired by Flickr and the five-character length of American SMS short codes. The decision was also partly due to the fact that the domain twitter.com was already in use, and it was six months after the launch of twttr that the crew purchased the domain and changed the name of the service to Twitter.[28] The developers initially considered "10958" as a short code, but later changed it to "40404" for "ease of use and memorability".[29] Work on the project started on March 21, 2006, when Dorsey published the first Twitter message at 9:50 p.m. Pacific Standard Time (PST): "just setting up my twttr".[4] Dorsey has explained the origin of the "Twitter" title:
+
+    ...we came across the word 'twitter', and it was just perfect. The definition was 'a short burst of inconsequential information,' and 'chirps from birds'. And that's exactly what the product was.[30]
+
+The first Twitter prototype, developed by Dorsey and contractor Florian Weber, was used as an internal service for Odeo employees[31] and the full version was introduced publicly on July 15, 2006.[13] In October 2006, Biz Stone, Evan Williams, Dorsey, and other members of Odeo formed Obvious Corporation and acquired Odeo, together with its assets — including Odeo.com and Twitter.com — from the investors and shareholders.[32] Williams fired Glass, who was silent about his part in Twitter's startup until 2011.[33] Twitter spun off into its own company in April 2007.[34] Williams provided insight into the ambiguity that defined this early period in a 2013 interview:
+
+    With Twitter, it wasn't clear what it was. They called it a social network, they called it microblogging, but it was hard to define, because it didn't replace anything. There was this path of discovery with something like that, where over time you figure out what it is. Twitter actually changed from what we thought it was in the beginning, which we described as status updates and a social utility. It is that, in part, but the insight we eventually came to was Twitter was really more of an information network than it is a social network.[35]
+
+The tipping point for Twitter's popularity was the 2007 South by Southwest Interactive (SXSWi) conference. During the event, Twitter usage increased from 20,000 tweets per day to 60,000.[36][37] "The Twitter people cleverly placed two 60-inch plasma screens in the conference hallways, exclusively streaming Twitter messages," remarked Newsweek's Steven Levy. "Hundreds of conference-goers kept tabs on each other via constant twitters. Panelists and speakers mentioned the service, and the bloggers in attendance touted it."[38] Reaction at the conference was highly positive. Blogger Scott Beale said that Twitter was "absolutely ruling" SXSWi. Social software researcher danah boyd said Twitter was "owning" the conference.[39] Twitter staff received the festival's Web Award prize with the remark "we'd like to thank you in 140 characters or less. And we just did!"[40]
+
+The first unassisted off-Earth Twitter message was posted from the International Space Station by NASA astronaut T. J. Creamer on January 22, 2010.[41] By late November 2010, an average of a dozen updates per day were posted on the astronauts' communal account, @NASA_Astronauts. NASA has also hosted over 25 "tweetups", events that provide guests with VIP access to NASA facilities and speakers with the goal of leveraging participants' social networks to further the outreach goals of NASA. In August 2010, the company appointed Adam Bain from News Corp.'s Fox Audience Network as president of revenue.[42]
+2007–2010
+
+The company experienced rapid initial growth. It had 400,000 tweets posted per quarter in 2007. This grew to 100 million tweets posted per quarter in 2008. In February 2010, Twitter users were sending 50 million tweets per day.[43] By March 2010, the company recorded over 70,000 registered applications.[44] As of June 2010, about 65 million tweets were posted each day, equaling about 750 tweets sent each second, according to Twitter.[45] As of March 2011, that was about 140 million tweets posted daily.[46] As noted on Compete.com, Twitter moved up to the third-highest-ranking social networking site in January 2009 from its previous rank of twenty-second.[47]
+Jack Dorsey, co-founder and CEO of Twitter, in 2009
+
+Twitter's usage spikes during prominent events. For example, a record was set during the 2010 FIFA World Cup when fans wrote 2,940 tweets per second in the thirty-second period after Japan scored against Cameroon on June 14. The record was broken again when 3,085 tweets per second were posted after the Los Angeles Lakers' victory in the 2010 NBA Finals on June 17,[48] and then again at the close of Japan's victory over Denmark in the World Cup when users published 3,283 tweets per second.[49] The record was set again during the 2011 FIFA Women's World Cup Final between Japan and the United States, when 7,196 tweets per second were published.[50] When American singer Michael Jackson died on June 25, 2009, Twitter servers crashed after users were updating their status to include the words "Michael Jackson" at a rate of 100,000 tweets per hour.[51] The current record as of August 3, 2013 was set in Japan, with 143,199 tweets per second during a television screening of the movie Castle in the Sky[52] (beating the previous record of 33,388, also set by Japan for the television screening of the same movie).[53]
+
+Twitter acquired application developer Atebits on April 11, 2010. Atebits had developed the Apple Design Award-winning Twitter client Tweetie for the Mac and iPhone. The application, now called "Twitter" and distributed free of charge, is the official Twitter client for the iPhone, iPad and Mac.[54]
+
+From September through October 2010, the company began rolling out "New Twitter", an entirely revamped edition of twitter.com. Changes included the ability to see pictures and videos without leaving Twitter itself by clicking on individual tweets which contain links to images and clips from a variety of supported websites including YouTube and Flickr, and a complete overhaul of the interface, which shifted links such as '@mentions' and 'Retweets' above the Twitter stream, while 'Messages' and 'Log Out' became accessible via a black bar at the very top of twitter.com. As of November 1, 2010, the company confirmed that the "New Twitter experience" had been rolled out to all users. In 2019, Twitter was announced to be the 10th most downloaded mobile app of the decade, from 2010 to 2019.[55]
+2011–2014
+
+On April 5, 2011, Twitter tested a new homepage and phased out the "Old Twitter".[56] However, a glitch came about after the page was launched, so the previous "retro" homepage was still in use until the issues were resolved; the new homepage was reintroduced on April 20.[57][58] On December 8, 2011, Twitter overhauled its website once more to feature the "Fly" design, which the service says is easier for new users to follow and promotes advertising. In addition to the Home tab, the Connect and Discover tabs were introduced along with a redesigned profile and timeline of Tweets. The site's layout has been compared to that of Facebook.[59][60] On February 21, 2012, it was announced that Twitter and Yandex agreed to a partnership. Yandex, a Russian search engine, finds value within the partnership due to Twitter's real time news feeds. Twitter's director of business development explained that it is important to have Twitter content where Twitter users go.[61] On March 21, 2012, Twitter celebrated its sixth birthday while also announcing that it had 140 million users and 340 million tweets per day. The number of users was up 40% from their September 2011 number, which was said to have been at 100 million at the time.[62]
+
+In April 2012, Twitter announced that it was opening an office in Detroit, with the aim of working with automotive brands and advertising agencies.[63] Twitter also expanded its office in Dublin.[64] On June 5, 2012, a modified logo was unveiled through the company blog, removing the text to showcase the slightly redesigned bird as the sole symbol of Twitter.[65][66] On October 5, 2012, Twitter acquired a video clip company called Vine that launched in January 2013.[67][68] Twitter released Vine as a standalone app that allows users to create and share six-second looping video clips on January 24, 2013. Vine videos shared on Twitter are visible directly in users' Twitter feeds.[69] Due to an influx of inappropriate content, it is now rated 17+ in Apple's[needs update][70] app store.[71] On December 18, 2012, Twitter announced it had surpassed 200 million monthly active users. Twitter hit 100 million monthly active users in September 2011.[72]
+
+On January 28, 2013, Twitter acquired Crashlytics in order to build out its mobile developer products.[73]
+
+On April 18, 2013, Twitter launched a music app called Twitter Music for the iPhone.[74] On August 28, 2013, Twitter acquired Trendrr,[75] followed by the acquisition of MoPub on September 9, 2013.[76] As of September 2013, the company's data showed that 200 million users sent over 400 million tweets daily, with nearly 60% of tweets sent from mobile devices.[77] On June 4, 2014, Twitter announced that it would acquire Namo Media, a technology firm specializing in "native advertising" for mobile devices.[78] On June 19, 2014, Twitter announced that it had reached an undisclosed deal to buy SnappyTV, a service that helps edit and share video from television broadcasts.[79][80] The company was helping broadcasters and rights holders to share video content both organically across social and via Twitter's Amplify program.[81] In July 2014, Twitter announced that it intended to buy a young company called CardSpring for an undisclosed sum. CardSpring enabled retailers to offer online shoppers coupons that they could automatically sync to their credit cards in order to receive discounts when they shopped in physical stores.[82] On July 31, 2014, Twitter announced that it had acquired a small password-security startup called Mitro.[83] On October 29, 2014, Twitter announced a new partnership with IBM. The partnership was intended to help businesses use Twitter data to understand their customers, businesses and other trends.[84]
+2015–2016
+
+On February 11, 2015, Twitter announced that it had acquired Niche, an advertising network for social media stars, founded by Rob Fishman and Darren Lachtman.[85] The acquisition price was reportedly $50 million.[86] On March 13, 2015, Twitter announced its acquisition of Periscope, an app that allows live streaming of video.[87] In April 2015, the Twitter.com desktop homepage changed.[88] Twitter announced that it had acquired TellApart, a commerce ads tech firm, with $532 million stock.[89][90] Later in the year it became apparent that growth had slowed, according to Fortune,[91] Business Insider,[92] Marketing Land[93] and other news websites including Quartz (in 2016).[94] In June 2016, Twitter acquired an artificial intelligence startup called Magic Pony for $150 million.[95][96]
+2017–2020
+
+During the COVID-19 pandemic in 2020, Twitter saw an increased use of the platform for misinformation related to the pandemic.[citation needed] Twitter announced in March 2020 that it will start marking tweets which may contain misleading information, in some cases it will provide links to pages of fact-checking information.[97]
+
+Shortly afterwards United States President Donald Trump had used his Twitter account on May 26, 2020 to issue a statement related to possible fraud associated with mail-in voting ahead of the upcoming 2020 primary elections. Twitter moderators used the forementioned tools to mark Trump's tweets as "potentially misleading" and added linked to a dedicated page with additional articles from other news sources on mail-in voting, the first time they had marked Trump's tweets as such.[98] Trump, who had previously alleged Twitter, and other technology companies, have an anti-conservative bias,[99] announced his intention to enact regulations to take action against Twitter. Two days later, on May 28, 2020, Trump signed "Executive Order on Preventing Online Censorship"[100] aimed to impact the protections of Section 230 of the Communications Decency Act which Twitter and other social media sites have to avoid liability for dealing with moderation of user content on their platforms.[101][102][103]
+
+Around this time, the death of George Floyd, an African-American, in an incident involving four White Minneapolis Police Department officers on May 25, sparked racially-driven riots in the city that turned violent by the evening of May 28. Trump tweeted his opinion on the violent protests, stating he had spoken to state governor Tim Walz about bringing National Guard forces to help calm the situation, but concluded the tweet by saying "Any difficulty and we will assume control but, when the looting starts, the shooting starts." Twitter, after internal consultation with its review boards and management, opted to add a "public interest notice"[104] to the tweet,[105] warning users it "glorified violence" and while they normally would have removed such posts in the past, they "have kept the Tweet on Twitter because it is important that the public still be able to see the Tweet given its relevance to ongoing matters of public importance."[106] Twitter users were still able to view Trump's tweet if they chose to click on it,[107] but could not like or retweet it without their own comment.
+
+A major hack of Twitter on July 15, 2020 affected 130 high-profile accounts, both verified and unverified ones such as Barack Obama, Bill Gates, and Elon Musk; the hack allowed bitcoin scammers to send tweets via the compromised accounts that asked the followers to send bitcoin to a given public address, with the promise to double their money.[108] Within a few hours, Twitter disabled tweeting and reset passwords from all verified accounts.[108] Analysis of the event revealed that the scammers had used social engineering to obtain credentials from Twitter employees to access an administration tool used by Twitter to view and change these accounts' personal details as to gain access as part of a "smash and grab" attempt to make money quickly, with an estimated US$120,000 in bitcoin deposited in various accounts before Twitter interveined.[109] Several law enforcement entities including the FBI launched investigations into the attack to determine the perpetrators over concerns of broader implications of such a hack in the future.[110]
+Leadership
+
+As chief executive officer, Dorsey saw the startup through two rounds of capital funding by the venture capitalists who backed the company.[111] On October 16, 2008,[112] Williams took over the role of CEO, and Dorsey became chairman of the board.[113] On October 4, 2010, Williams announced that he was stepping down as CEO. Dick Costolo, formerly Twitter's chief operating officer, became CEO. On October 4, 2010, Williams made an announcement saying that he will stay with the company and "be completely focused on product strategy".[114][115]
+
+According to The New York Times, "Mr. Dorsey and Mr. Costolo forged a close relationship" when Williams was away.[116] According to PC Magazine, Williams was "no longer involved in the day-to-day goings on at the company". He was focused on developing a new startup, and became a member of Twitter's board of directors, and promised to "help in any way [he could]". In 2011, Stone was still with Twitter but was working with AOL as an "advisor on volunteer efforts and philanthropy".[117] In January 2014, Stone announced the release of Jelly, a 'social Q&A network for mobile'.[118] Dorsey rejoined Twitter in March 2011, as executive chairman focusing on product development. At that time, he split his schedule with Square (where he is CEO), whose offices are within walking distance of Twitter's in San Francisco.[116]
+
+In September 2011, board members and investors Fred Wilson and Bijan Sabet resigned from Twitter's board of directors.[119] In October 2012, Twitter announced it had hired former Google executive Matt Derella to become their new director of business agency development.[120] Twitter named former Goldman Sachs executive Anthony Noto as the company's CFO in July 2014, with an "annual salary of $250,000 and one-time restricted stock options of 1.5 million shares ... valued at $61.5 million".[121] On June 10, 2015, Twitter announced its CEO Dick Costolo would resign on July 1, 2015.[122] Noto was said to be considered a potential replacement for outgoing CEO Costolo.[123] On October 14, 2015, former Google chief business officer Omid Kordestani became executive chairman, replacing Dorsey who remains CEO.[124] On January 26, 2016, Leslie Berland, former executive vice president of global advertising, marketing, and digital partnerships at American Express, was named chief marketing officer.[125] In November 2016, COO Adam Bain announced his resignation and CFO Anthony Noto took over Bain's role.[126][127] A month later, on December 20, 2016, CTO Adam Messinger announced that he too was leaving.[128][129]
+
+In February 2020, it was reported that Elliott Management Corporation had acquired a stake in Twitter, with activist shareholder and Republican Party supporter Paul Singer expected to seek the removal of Dorsey as CEO.[130] Twitter agreed to appoint a new independent director and two new board members, and to perform $2 billion in share buybacks.[131]
+Appearance and features
+Logo and font
+The Twitter logo from September 14, 2010 – June 5, 2012, featuring the silhouette version of "Larry the Bird"
+
+Twitter has become internationally identifiable by its signature bird logo, or the Twitter Bird. The original logo, which was simply the word "Twitter", was in use from its launch in March 2006. It was accompanied by an image of a bird which was later discovered to be a piece of clip art created by the British graphic designer Simon Oxley.[132] A new logo had to be redesigned by founder Biz Stone with help from designer Philip Pascuzzo, which resulted in a more cartoon-like bird in 2009. This version had been dubbed "Larry the Bird" specifically named after Larry Bird of the NBA's Boston Celtics fame.[133][134] Within a year, the Larry the Bird logo underwent a redesign by Stone and Pascuzzo to eliminate the cartoon features, leaving a solid silhouette of Larry the Bird that was used from 2010 through 2012.[133] In 2012, Douglas Bowman created a further simplified version of Larry the Bird, keeping the solid silhouette but making it more similar to a mountain bluebird.[135] This new logo was called simply the "Twitter Bird," and has been used as the company's branding since.[133][136]
+
+On May 30, 2014, Twitter announced, "Starting today, we're rolling out a new font on twitter.com, moving from Helvetica Neue to Gotham".[137]
+Tweets
+The Twitter account page for Wikipedia, demonstrating the account-customized timeline view which shows tweets in reverse chronological order
+
+Tweets are publicly visible by default, but senders can restrict message delivery to only their followers. Users can mute users they do not wish to interact with and block accounts from viewing their tweets.[138][139] Users can tweet via the Twitter website, compatible external applications (such as for smartphones), or by Short Message Service (SMS) available in certain countries.[140] Users may subscribe to other users' tweets—this is known as "following" and subscribers are known as "followers"[141] or "tweeps", a portmanteau of Twitter and peeps.[142] Individual tweets can be forwarded by other users to their own feed, a process known as a "retweet". Users can also "like" (formerly "favorite") individual tweets.[143] Twitter allows users to update their profile via their mobile phone either by text messaging or by apps released for certain smartphones and tablets.[144] Twitter has been compared to a web-based Internet Relay Chat (IRC) client.[145] In a 2009 Time magazine essay, technology author Steven Johnson described the basic mechanics of Twitter as "remarkably simple":
+
+    As a social network, Twitter revolves around the principle of followers. When you choose to follow another Twitter user, that user's tweets appear in reverse chronological order on your main Twitter page. If you follow 20 people, you'll see a mix of tweets scrolling down the page: breakfast-cereal updates, interesting new links, music recommendations, even musings on the future of education.[146]
+
+According to research published in April 2014, around 44% of user accounts have never tweeted.[147]
+
+The first tweet was posted by Jack Dorsey (creator) at 12:50 PM PST on March 21, 2006 and read "just setting up my twttr".[148] In 2009, the first tweet was sent from space. US astronauts Nicola Stott and Jeff Williams took part in a live 'tweetup' from the International Space Station with around 35 members of the public at NASA Headquarters, Washington, DC.[149]
+Content
+Content of tweets according to Pear Analytics
+  News (3.6%)
+  Spam (3.8%)
+  Self-promotion (5.9%)
+  Pointless babble (40.1%)
+  Conversational (37.6%)
+  Pass-along value (8.7%)
+
+San Antonio-based market-research firm Pear Analytics analyzed 2,000 tweets (originating from the United States and in English) over a two-week period in August 2009 from 11:00 am to 5:00 pm (CST) and separated them into six categories.[150] Pointless babble made up 40%, with 38% being conversational. Pass-along value had 9%, self-promotion 6% with spam and news each making 4%.
+
+Despite Jack Dorsey's own open contention that a message on Twitter is "a short burst of inconsequential information", social networking researcher danah boyd responded to the Pear Analytics survey by arguing that what the Pear researchers labeled "pointless babble" is better characterized as "social grooming" and/or "peripheral awareness" (which she justifies as persons "want[ing] to know what the people around them are thinking and doing and feeling, even when co-presence isn't viable").[151] Similarly, a survey of Twitter users found that a more specific social role of passing along messages that include a hyperlink is an expectation of reciprocal linking by followers.[152]
+Format
+Hashtags, usernames, retweets and replies
+"Twitter hashtag" redirects here. For more about hashtags, see Hashtag.
+Further information: Mention (blogging) § @ (At sign)
+
+Users can group posts together by topic or type by use of hashtags – words or phrases prefixed with a "#" sign. Similarly, the "@" sign followed by a username is used for mentioning or replying to other users.[153]
+
+To repost a message from another Twitter user and share it with one's own followers, a user can click the retweet button within the Tweet. Users can reply other accounts' replies. Since November 2019, users can hide replies to their messages. Since May 2020, users can select who can reply each of their messages: anyone, accounts who follow the poster, specific accounts, and none.[154]
+Twitter Lists
+
+In late 2009, the "Twitter Lists" feature was added, making it possible for users to follow ad hoc lists of authors instead of individual authors.[141][155]
+Using SMS
+
+Through SMS, users can communicate with Twitter through five gateway numbers: short codes for the United States, Canada, India, New Zealand, and an Isle of Man-based number for international use. There is also a short code in the United Kingdom which is only accessible to those on the Vodafone, O2[156] and Orange[157] networks. In India, since Twitter only supports tweets from Bharti Airtel,[158] an alternative platform called smsTweet[159] was set up by a user to work on all networks.[160] A similar platform called GladlyCast exists for mobile phone users in Singapore and Malaysia.[161]
+
+The tweets were set to a largely constrictive 140-character limit for compatibility with SMS messaging, introducing the shorthand notation and slang commonly used in SMS messages. The 140-character limit also increased the usage of URL shortening services such as bit.ly, goo.gl, tinyurl.com, tr.im, and other content-hosting services such as TwitPic, memozu.com and NotePub to accommodate multimedia content and text longer than 140 characters. Since June 2011, Twitter has used its own t.co domain for automatic shortening of all URLs posted on its site, making other link shorteners unnecessary for staying within Twitter's 140 character limit.[162][163]
+
+In August 2019, Jack Dorsey's account was hacked by using Twitter's SMS to tweet feature to send crude messages. Days later, the ability to send a tweet via SMS was temporarily turned off.[164]
+
+In April 2020, Twitter discontinued the ability to receive SMS messages containing the text of new tweets in most countries.[165][166]
+Character limits
+
+In 2016, Twitter announced that media such as photos, videos, and the person's handle, would not count against the already constrictive 140 character limit. A user photo post used to count for a large chunk of a Tweet, about 24 characters.[167] Attachments and links would also no longer be part of the character limit.[168]
+
+Since March 30, 2017, the Twitter handles are outside the tweet itself, therefore they no longer count towards the character limit.[169] Only new Twitter handles added to the conversation count towards the limit.
+
+In 2017, Twitter doubled their historical 140-character-limitation to 280.[170] Under the new limit, glyphs are counted as a variable number of characters, depending upon the script they are from: most European letters and punctuation forms count as one character, while each CJK glyph counts as two so that only 140 such glyphs can be used in a tweet.[170]
+Image captions
+
+On Tuesday, 2016-03-29, Twitter introduced a feature to improve accessibility for visually impaired people:[171] A caption with the length of up to 420 characters[172] can be added to each image optionally.
+
+This caption can be accessed by screen reading software or by hovering the mouse above a picture inside TweetDeck.
+URL shortener
+
+t.co is a URL shortening service created by Twitter.[162] It is only available for links posted to Twitter and not available for general use.[162] All links posted to Twitter use a t.co wrapper.[173] Twitter hopes that the service will be able to protect users from malicious sites,[162] and will use it to track clicks on links within tweets.[162][174]
+
+Having used the services of third parties TinyURL and bit.ly,[175] Twitter began experimenting with its own URL shortening service for private messages in March 2010 using the twt.tl domain,[173] before it purchased the t.co domain. The service was tested on the main site using the accounts @TwitterAPI, @rsarver and @raffi.[173] On September 2, 2010, an email from Twitter to users said they would be expanding the roll-out of the service to users. On June 7, 2011, Twitter announced that it was rolling out the feature.[163]
+Trending topics
+Main article: Twitter trends
+Countries and cities with local trending topics in Twitter
+
+A word, phrase, or topic that is mentioned at a greater rate than others is said to be a "trending topic". Trending topics become popular either through a concerted effort by users or because of an event that prompts people to talk about a specific topic.[176] These topics help Twitter and their users to understand what is happening in the world and what people's opinions are about it.[177]
+
+Trending topics are sometimes the result of concerted efforts and manipulations by preteen and teenaged fans of certain celebrities or cultural phenomena, particularly musicians like Lady Gaga (known as Little Monsters), Justin Bieber (Beliebers), Rihanna (Rih Navy) and One Direction (Directioners), and novel series Twilight (Twihards) and Harry Potter (Potterheads). Twitter has altered the trend algorithm in the past to prevent manipulation of this type with limited success.[178]
+
+The Twitter web interface displays a list of trending topics on a sidebar on the home page, along with sponsored content (see image).
+
+Twitter often censors trending hashtags that are claimed to be abusive or offensive. Twitter censored the #Thatsafrican[179] and #thingsdarkiessay hashtags after users complained that they found the hashtags offensive.[180] There are allegations that Twitter removed #NaMOinHyd from the trending list and added an Indian National Congress-sponsored hashtag.[181]
+Moments
+
+In October 2015, Twitter introduced "Moments"—a feature that allows users to curate tweets from other users into a larger collection. Twitter initially intended the feature to be used by its in-house editorial team and other partners; they populated a dedicated tab in Twitter's apps, chronicling news headlines, sporting events, and other content.[182][183] In September 2016, creation of moments became available to all Twitter users.[184]
+Adding and following content
+
+There are numerous tools for adding content, monitoring content and conversations including Twitter's own TweetDeck, Salesforce.com, HootSuite, and Twitterfeed.com. As of 2009, fewer than half of tweets posted were posted using the web user interface with most users using third-party applications (based on an analysis of 500 million tweets by Sysomos).[185]
+Verified accounts
+The official Twitter profile of Twitter, Inc. The blue check mark right of the profile name indicates that it is a verified account.
+
+In June 2009, after being criticized by Kanye West and sued by Tony La Russa over unauthorized accounts run by impersonators, Twitter launched their 'Verified Accounts' program.[186][187] Twitter stated that an account with a "blue tick" verification badge indicates "we've been in contact with the person or entity the account is representing and verified that it is approved."[188] After the beta period, Twitter stated in their FAQ that the company "proactively verifies accounts on an ongoing basis to make it easier for users to find who they’re looking for" and that they "do not accept requests for verification from the general public."[189]
+
+In July 2016, Twitter announced a public application process to grant verified status to an account "if it is determined to be of public interest" and that verification "does not imply an endorsement."[190][191][192] As of November 2017, Twitter continued to deny verification of Julian Assange following his requests.[193] In November 2017, the company suspended the verification process and announced plans to refine it in response to backlash after white nationalist Jason Kessler had his account verified on Twitter.[194][195][196]
+
+Verified status allows access to some features unavailable to other users, such as only seeing mentions from other verified accounts.[197]
+
+In a March 8, 2018 live-stream on Twitter's Periscope, Dorsey discussed the idea of allowing any user to get a verified account. "The intention is to open verification to everyone, and to do it in a way that is scalable where [Twitter is] not in the way," Dorsey said. "And people can verify more facts about themselves, and we don’t have to be the judge or imply any bias on our part."[198]
+
+In November 2019, Dalit activists of India alleged that higher caste people get Twitter verification easily and trended hashtags #CancelAllBlueTicksInIndia and #CasteistTwitter.[199][200][201] Critics have commented that Twitter's verification process is not transparent and causes digital marginalisation of already marginalised communities.[202] Twitter India rejected the allegations, calling them 'impartial' and working on a 'case-by-case' policy.[203][204]
+Mobile
+The mobile version of Twitter[205]
+
+Twitter has mobile apps for iPhone, iPad, Android, Windows 10, Windows Phone, BlackBerry, and Nokia S40.[206] Users can also tweet by sending SMS.[207] In April 2017, Twitter introduced Twitter Lite, a progressive web app designed for regions with unreliable and slow Internet connections, with a size of less than one megabyte, designed for devices with limited storage capacity.[208][209]
+
+This has been released in countries with slow internet connection such as the Philippines.[210]
+
+Twitter Lite has evolved into the main Twitter web interface, see section "interface".[citation needed]
+Third-party applications
+
+For many years, Twitter has limited the use of third-party applications accessing the service by implementing a 100,000 user limit per application.[211] Since August 2010, third-party Twitter applications have been required to use OAuth, an authentication method that does not require users to enter their password into the authenticating application. This was done to increase security and improve the user experience.[212]
+Related headlines feature
+
+This feature adds websites to the bottom of a tweet's permalink page. If a website embedded a tweet onto one of their stories, the tweet will show the websites that mentioned the tweet. This feature was added onto Twitter so if the viewer doesn't understand what the tweet means, they can click on the sites to read more about what the person is talking about.[213]
+Polls
+
+In 2015, Twitter began to roll out the ability to attach poll questions to tweets. Polls are open for up to 7 days, and voters are not personally identified.[214]
+
+Initially, polls could have only two options with a maximum of twenty characters per option. Later[when?], the ability to add four options with up to 25 characters per option, was added.
+Integrated photo-sharing service
+
+On June 1, 2011, Twitter announced its own integrated photo-sharing service that enables users to upload a photo and attach it to a Tweet right from Twitter.com.[215] Users now also have the ability to add pictures to Twitter's search by adding hashtags to the tweet.[216] Twitter also plans to provide photo galleries designed to gather and syndicate all photos that a user has uploaded on Twitter and third-party services such as TwitPic.[216]
+Streaming video
+
+In 2016, Twitter began to place a larger focus on live streaming video programming, hosting various events including streams of the Republican and Democratic conventions during the U.S. presidential campaign as part of a partnership with CBS News,[217] Dreamhack and ESL eSports events,[218] and winning a bid for non-exclusive streaming rights to ten NFL Thursday Night Football games in the 2016 season.[218][219]
+
+During an event in New York in May 2017, Twitter announced that it planned to construct a 24-hour streaming video channel hosted within the service, featuring content from various partners.[218][220] CEO Jack Dorsey stated that the digital video strategy was part of a goal for Twitter to be "the first place that anyone hears of anything going on that matters to them"; as of the first quarter of 2017, Twitter had over 200 content partners, who streamed over 800 hours of video over 450 events.[221]
+
+Twitter announced a number of new and expanded partnerships for its streaming video services at the event, including Bloomberg, BuzzFeed, Cheddar (Opening Bell and Closing Bell shows; the latter was introduced in October 2016) IMG Fashion (coverage of fashion events), Live Nation Entertainment (streaming concert events), Major League Baseball (weekly online game stream, plus a weekly program with live look-ins and coverage of trending stories), MTV and BET (red carpet coverage for their MTV Video Music Awards, MTV Movie & TV Awards, and BET Awards), NFL Network (the Monday-Thursday news program NFL Blitz Live, and Sunday Fantasy Gameday),[222][223] the PGA Tour (PGA Tour Live coverage of early tournament rounds preceding television coverage),[224] The Players' Tribune, Ben Silverman and Howard T. Owens' Propagate (daily entertainment show #WhatsHappening), The Verge (weekly technology show Circuit Breaker: The Verge’s Gadget Show), Stadium (a new digital sports network being formed by Silver Chalice and Sinclair Broadcast Group)[225][226][227] and the WNBA (weekly game).[221]
+
+Account archival
+
+Twitter has offered two different methods[clarify] of archiving one's own Twitter account data. Those methods have their individual benefits and disadvantages. Since August 2019, only the latter archival method is available.[citation needed]
+Browsable legacy Twitter archive format
+
+In December 2012, Twitter introduced a "Tweet archival" feature,[228] which created a ZIP file that contains an offline-browsable archive of all tweets.
+
+Those exported tweets could be browsed and searched offline by using the bundled user-interface accessible through an Internet browser, which used client-side, JavaScript-powered pagination.[229]
+
+The user interface of the tweet archive browser had a design similar to Twitter's 2010–2014 desktop user interface, even until the feature's removal.
+
+The tweet text contents, ID's, time data and source labels are located in the file called "tweets.csv".
+
+The ability to export this type of tweet archive, which never existed on the new layout, has been removed entirely in August 2019[when exactly?], after co-existing with the new 2018 data archival method. Even when accessing the legacy Twitter desktop website layout using the user-agent of an older browser version, the option has disappeared from the account settings.
+
+It was possible to request at least 1 archive per day[verification needed].
+New machine-readable archive format
+
+Due to the legal GDPR §20 obligation (effective since May 2018) to provide data portability, social media services had to introduce advanced data export capabilities and utilities.
+
+The original browsable tweet archives did lack a lot of metadata, especially about the account itself, which the new machine-readable archival feature does contain:
+
+    Account ID and creation date
+    Direct messages
+    List of:
+        Following users + count
+        Followed users + count
+        Blocked user IDs
+        Muted user IDs
+        Liked tweets
+    Twitter Moments
+    Information about Periscope account
+    Saved searches
+    Screen name changes
+    Associated mobile phone number
+    Various account settings
+    Users in created Twitter Lists
+    Member of which Twitter Lists
+    Advanced tweet metadata (e.g. tweet source tag)
+    More…
+
+The tweet contents are located in the file called "tweet.js".
+
+However, this new archival format contains all uploaded multimedia in the highest resolution, which makes its file size usually multiple times as large.
+
+Additionally, the integrated tweet browser from the legacy archival feature is not bundled.
+
+Another disadvantage is that one can only generate one of these archives per 30 days. After obtaining this archive, one has to wait 30 days until requesting the next archive is possible. During that timespan, the previous archive remains downloadable from the account settings.
+
+This feature co-existed with the original browsable tweet archival feature since early 2018, until the latter was removed in August 2019.
+Usage
+
+In mid-September 2019, Twitter was ranked the 32nd most visited website globally by Alexa's web traffic analysis, down from twelfth in March 2018.[230][231]
+
+Daily user estimates vary as the company does not publish statistics on active accounts. A February 2009 Compete.com blog entry ranked Twitter as the third most used social network based on their count of 6 million unique monthly visitors and 55 million monthly visits.[47] In 2009, Twitter had a monthly user retention rate of forty percent.[232] Twitter had annual growth of 1,382 percent, increasing from 475,000 unique visitors in February 2008 to 7 million in February 2009. Twitter's annual growth rate decreased from 7.8 percent in 2015 to 3.4 percent in 2017.[233] An April 2017 a statista.com blog entry ranked Twitter as the tenth most used social network based on their count of 319 million monthly visitors.[234] Its global user base in 2017 was 328 million.[235] As per August 2018, Twitter light (data saving app) is available in 45 countries.[236]
+Demographics
+Ambox current red Asia Australia.svg
+	
+This section needs to be updated. Please update this article to reflect recent events or newly available information. (September 2019)
+See also: Black Twitter
+Twitter.com Top5 Global Markets by Reach (%)[237][238]
+Country 		Percent
+Indonesia 	June 2010 	
+  
+	20.8% 	
+December 2010 	
+  
+	19.0%
+Brazil 	June 2010 	
+  
+	20.5% 	
+December 2010 	
+  
+	21.8%
+Venezuela 	June 2010 	
+  
+	19.0% 	
+December 2010 	
+  
+	21.1%
+Netherlands 	June 2010 	
+  
+	17.7% 	
+December 2010 	
+  
+	22.3%
+Japan 	June 2010 	
+  
+	16.8% 	
+December 2010 	
+  
+	20.0%
+Note: Visitor age 15+, home and work locations. Excludes visitation from public computers such as Internet cafes or access from mobile phones or PDAs.
+
+In 2009, Twitter was mainly used by older adults who might not have used other social sites before Twitter, said Jeremiah Owyang, an industry analyst studying social media. "Adults are just catching up to what teens have been doing for years," he said.[239] According to comScore only eleven percent of Twitter's users are aged twelve to seventeen.[239] comScore attributed this to Twitter's "early adopter period" when the social network first gained popularity in business settings and news outlets attracting primarily older users. However, comScore also stated in 2009 that Twitter had begun to "filter more into the mainstream", and "along with it came a culture of celebrity as Shaq, Britney Spears and Ashton Kutcher joined the ranks of the Twitterati".[240]
+
+According to a study by Sysomos in June 2009, women make up a slightly larger Twitter demographic than men—fifty-three percent over forty-seven percent. It also stated that five percent of users accounted for seventy-five percent of all activity and that New York City has more Twitter users than other cities.[241]
+
+According to Quancast, twenty-seven million people in the US used Twitter as of September 3, 2009. Sixty-three percent of Twitter users are under thirty-five years old; sixty percent of Twitter users are Caucasian, but a higher than average (compared to other Internet properties) are African American/black (sixteen percent) and Hispanic (eleven percent); fifty-eight percent of Twitter users have a total household income of at least US$60,000.[242] The prevalence of African American Twitter usage and in many popular hashtags has been the subject of research studies.[243][244]
+
+On September 7, 2011, Twitter announced that it had 100 million active users logging in at least once a month and 50 million active users every day.[245]
+
+In an article published on January 6, 2012, Twitter was confirmed to be the biggest social media network in Japan, with Facebook following closely in second. comScore confirmed this, stating that Japan was the only country in the world where Twitter leads Facebook.[246]
+
+On March 31, 2014, Twitter announced there were 255 million monthly active users (MAUs) and 198 million mobile MAUs.[247] In 2013, there were over 100 million users actively using Twitter daily and about 500 million Tweets every day,[248] with about 29% of users checking Twitter multiple times a day.[249]
+
+In 2012, the country with the most active users on Twitter was the United States.[250] A 2016 Pew research poll found that Twitter is used by 24% of all online US adults. It was equally popular with men and women (24% and 25% of online Americans respectively), but more popular with younger (36% of 18-29 year olds) generations.[251]
+Decline and levels of use
+
+Following a high of 24% in 2016, in 2019 pew research had found its overall usage had dropped to 22%.[252] Media outlets have pointed out not to rely on twitter as a representative of the population, saying "Twitter is not America",[253] stating that only 10% of users tweet actively, and that 90% of twitter users have tweeted no more than twice. One reason for the decline in tweets and usage is the rise of cancel culture, with Fast Company saying " The platform is now the world’s principal venue for politics and outrage, culture and conversation–the home for both #MAGA and #MeToo."[254]
+Finances
+
+For the fiscal year 2017, Twitter reported losses of US$108 million, with an annual revenue of $2.443 billion, a decrease of 3.9% over the previous fiscal cycle. Twitter's shares traded at over $17 per share, and its market capitalization was valued at over US$25.6 billion in October 2018.
+Year 	Revenue
+in mil. US$ 	Net income
+in mil. US$ 	Total assets
+in mil. US$ 	Employees
+2010[255] 	28 	−67 	0 	
+2011[255] 	106 	−164 	721 	
+2012[255] 	317 	−79 	832 	
+2013[255] 	665 	−645 	3,366 	2,712
+2014[256] 	1,403 	−578 	5,583 	3,638
+2015[257] 	2,218 	−521 	6,442 	3,898
+2016[258] 	2,530 	−457 	6,870 	3,583
+2017[259] 	2,443 	−108 	7,412 	3,372
+2018[260] 	3,042 	1,206 	10,163 	3,900
+Funding
+Twitter's San Francisco headquarters located at 1355 Market Street
+
+Twitter raised over US$57 million from venture capitalist growth funding, although exact figures are not publicly disclosed. Twitter's first A round of funding was for an undisclosed amount that is rumored to have been between US$1 million and US$5 million.[261] Its second B round of funding in 2008 was for US$22 million[262] and its third C round of funding in 2009 was for US$35 million from Institutional Venture Partners and Benchmark Capital along with an undisclosed amount from other investors including Union Square Ventures, Spark Capital, and Insight Venture Partners.[261] Twitter is backed by Union Square Ventures, Digital Garage, Spark Capital, and Bezos Expeditions.[263]
+
+In May 2008, The Industry Standard remarked that Twitter's long-term viability is limited by a lack of revenue.[264] Twitter board member Todd Chaffee forecast that the company could profit from e-commerce, noting that users may want to buy items directly from Twitter since it already provides product recommendations and promotions.[265]
+
+By March 2009 communications consultant Bill Douglass predicted in an interview that Twitter would be worth $1 billion within six months,[266] which came to pass when the company closed a financing round valuing it at $1 billion in September of that year.[267]
+
+The company raised US$200 million in new venture capital in December 2010, at a valuation of approximately US$3.7 billion.[268] In March 2011, 35,000 Twitter shares sold for US$34.50 each on Sharespost, an implied valuation of US$7.8 billion.[269] In August 2010 Twitter announced a "significant" investment led by Digital Sky Technologies that, at US$800 million, was reported to be the largest venture round in history.[270]
+
+In December 2011, the Saudi prince Alwaleed bin Talal invested US$300 million in Twitter. The company was valued at US$8.4 billion at the time.[271] In 2016, Twitter was valued by Forbes at US$15.7 billion.[272]
+Revenue sources
+
+In July 2009, some of Twitter's revenue and user growth documents were published on TechCrunch after being illegally obtained by Hacker Croll. The documents projected 2009 revenues of US$400,000 in the third quarter and US$4 million in the fourth quarter along with 25 million users by the end of the year. The projections for the end of 2013 were US$1.54 billion in revenue, US$111 million in net earnings, and one billion users.[273] No information about how Twitter planned to achieve those numbers was published. In response, Twitter co-founder Biz Stone published a blog post suggesting the possibility of legal action against the hacker.[274]
+
+On April 13, 2010, Twitter announced plans to offer paid advertising for companies that would be able to purchase "promoted tweets" to appear in selective search results on the Twitter website, similar to Google Adwords' advertising model. As of April 13, Twitter announced it had already signed up a number of companies wishing to advertise, including Sony Pictures, Red Bull, Best Buy, and Starbucks.[275][276]
+
+The company generated US$45 million in annual revenue in 2010, after beginning sales midway through that year; the company operated at a loss through most of 2010.[268]
+
+Users' photos can generate royalty-free revenue for Twitter, and an agreement with World Entertainment News Network (WENN) was announced in May 2011.[277] In June 2011, Twitter announced that it would offer small businesses a self-service advertising system.[278] Twitter generated US$139.5 million in advertising sales during 2011.
+
+The self-service advertising platform was launched in March 2012 to American Express card members and merchants in the U.S. on an invite-only basis. Twitter later reported that numerous small businesses and people who used the self-service tool provided feedback that indicated they were impressed by the feature.[279] To continue their advertising campaign, Twitter announced on March 20, 2012, that promoted tweets would be introduced to mobile devices.[280] In April 2013, Twitter announced that its Twitter Ads self-service platform, consisting of promoted tweets and promoted accounts, was available to all U.S. users without an invite.[279]
+
+Twitter's financial revenue statistics for the first quarter of 2014 was reported as US$250 million.[247]
+
+On August 3, 2016, Twitter launched Instant Unlock Card, a new feature that encourages people to tweet about a brand in order to earn rewards and utilize the social media network's conversational ads. The format itself consists of images or videos with call-to-action buttons and a customizable hashtag.[281]
+Stock launch and tax issues
+Twitter's San Francisco headquarters, as seen from a corner on Market Street
+
+On September 12, 2013, Twitter announced that it had filed papers with the U.S. Securities and Exchange Commission (SEC) ahead of a planned stock market listing.[282] It revealed its prospectus in an 800-page filing.[283] Twitter planned to raise US$1 billion as the basis for its stock market debut.[284] The initial public offering (IPO) filing states that "200,000,000+ monthly active users" access Twitter and "500,000,000+ tweets per day" are posted.[35][285] In an October 15, 2013 amendment to their SEC S-1 filing,[286] Twitter declared that they would list on the New York Stock Exchange (NYSE), quashing speculation that their stock would trade on the NASDAQ exchange. This decision was widely viewed to be a reaction to the botched initial public offering of Facebook.[287] On November 6, 2013, 70 million shares[288] were priced at US$26 and issued by lead underwriter Goldman Sachs.[289]
+
+On November 7, 2013, the first day of trading on the NYSE, Twitter shares opened at $26.00 and closed at US$44.90, giving the company a valuation of around US$31 billion.[290] Consequently executives and early investors marginally increased their capital, including co-founders Williams and Dorsey who received a sum of US$2.56 billion and US$1.05 billion respectively, while Costolo's payment was US$345 million.[291] On February 5, 2014, Twitter published its first results as a public company, showing a net loss of $511 million in the fourth quarter of 2013.[292] On January 5, 2016, CEO Jack Dorsey commented on a report that Twitter planned to expand its character limit to 10,000 (private messages already had the longer limit as of July), requiring users to click to see anything beyond 140 characters. He said while Twitter would "never lose that feeling" of speed, users could do more with the text.[293]
+
+In September 2016, Twitter shares rose 20% after a report that it had received takeover approaches.[294] Potential buyers were Alphabet (the parent company of Google),[294] Microsoft,[295][296][297] Salesforce.com,[294][298] Verizon,[298] and The Walt Disney Company.[299][300] Twitter's board of directors were open to a deal, which could have come by the end of 2016.[294][301] However, no deal was made, with reports in October stating that all the potential buyers dropped out partly due to concerns over abuse and harassment on the service.[302][303][304] In June 2017, Twitter revamped its dashboard to improve the new user experience.[305][306]
+
+In November 2017, the Paradise Papers, a set of confidential electronic documents relating to offshore investment, revealed that Twitter is among the corporations that avoided paying taxes by using offshore companies.[307] Later The New York Times reported that Russian-American billionaire Yuri Milner had strong Kremlin backing for his investments in Facebook and Twitter.[308]
+Advertising bans
+
+In October 2017, Twitter banned the Russian media outlets RT and Sputnik from advertising on their website following the conclusions of the U.S. national intelligence report the previous January that both Sputnik and RT had been used as vehicles for Russia's interference in the 2016 US presidential election.[309] Maria Zakharova for the Russian foreign ministry said the ban was a "gross violation" by the US of free speech.[310]
+
+In October 2019, Twitter announced it would stop running political ads on its ad platform effective November 22. This resulted from several spurious claims made by political ads. Company CEO Dorsey clarified that internet advertising had great power and was extremely effective for commercial advertisers, the power brings significant risks to politics where crucial decisions impact millions of lives.[311]
+Technology
+Implementation
+
+Twitter places great reliance on open-source software.[312] The Twitter Web interface uses the Ruby on Rails framework,[313] deployed on a performance enhanced Ruby Enterprise Edition implementation of Ruby.[314]
+
+In the early days of Twitter, tweets were stored in MySQL databases that were temporally sharded (large databases were split based on time of posting). After the huge volume of tweets coming in caused problems reading from and writing to these databases, the company decided that the system needed re-engineering.[315]
+
+From Spring 2007 to 2008, the messages were handled by a Ruby persistent queue server called Starling.[316] Since 2009, implementation has been gradually replaced with software written in Scala.[317] The switch from Ruby to Scala and the JVM has given Twitter a performance boost from 200–300 requests per second per host to around 10,000–20,000 requests per second per host. This boost was greater than the 10x improvement that Twitter's engineers envisioned when starting the switch. The continued development of Twitter has also involved a switch from monolithic development of a single app to an architecture where different services are built independently and joined through remote procedure calls.[315]
+
+As of April 6, 2011, Twitter engineers confirmed that they had switched away from their Ruby on Rails search stack to a Java server they call Blender.[10]
+
+Individual tweets are registered under unique IDs using software called snowflake, and geolocation data is added using 'Rockdove'. The URL shortener t.co then checks for a spam link and shortens the URL. Next, the tweets are stored in a MySQL database using Gizzard, and the user receives an acknowledgement that the tweets were sent. Tweets are then sent to search engines via the Firehose API. The process is managed by FlockDB and takes an average of 350 ms.[312]
+
+On August 16, 2013, Raffi Krikorian, Twitter's vice president of platform engineering, shared in a blog post that the company's infrastructure handled almost 143,000 tweets per second during that week, setting a new record. Krikorian explained that Twitter achieved this record by blending its homegrown and open source technologies.[315][318]
+
+The service's application programming interface (API) allows other web services and applications to integrate with Twitter.[319]
+Interface
+
+Twitter introduced the first major redesign of its user interface in September 2010, adopting a dual-pane layout with a navigation bar along the top of the screen, and an increased focus on the inline embedding of multimedia content. Critics considered the redesign an attempt to emulate features and experiences found in mobile apps and third-party Twitter clients.[320][321][322][323]
+
+The new layout was revised in 2011 with a focus on continuity with the web and mobile versions, introducing "Connect" (interactions with other users such as replies) and "Discover" (further information regarding trending topics and news headlines) tabs, an updated profile design, and moving all content to the right pane (leaving the left pane dedicated to functions and the trending topics list).[324] In March 2012, Twitter became available in Arabic, Farsi, Hebrew and Urdu, the first right-to-left language versions of the site. About 13,000 volunteers helped with translating the menu options.[325] In August 2012, beta support for Basque, Czech and Greek was added, making the site available in 33 different languages.[326]
+
+In September 2012, a new layout for profiles was introduced, with larger "covers" that could be customized with a custom header image, and a display of the user's recent photos posted.[327] The "Discover" tab was discontinued in April 2015,[328] and was succeeded on the mobile app by an "Explore" tab—which features trending topics and moments.[329]
+
+In September 2018, Twitter began to migrate selected web users to its progressive web app (based on its Twitter Lite experience for mobile web), reducing the interface to two columns. Migrations to this iteration of Twitter increased in April 2019, with some users receiving it with a modified layout.[330][331]
+
+In July 2019, Twitter officially released this redesign, with no further option to opt-out while logged in. It is designed to further-unify Twitter's user experience between the web and application versions, adopting a three-column layout with a sidebar containing links to common areas (including Explore), and features from the mobile version (such as multi-account support, and an opt-out for the "top tweets" mode on the timeline).[332][333]
+Outages
+The Twitter fail whale error message
+
+During an outage, Twitter users were at one time shown the "fail whale" error message image created by Yiying Lu,[334] illustrating eight orange birds using a net to hoist a whale from the ocean captioned "Too many tweets! Please wait a moment and try again."[335] Web designer and Twitter user Jen Simmons was the first to coin the term "fail whale" in a September 2007 tweet.[336][337] In a November 2013 WIRED interview Chris Fry, VP of Engineering at that time, noted that the company had taken the "fail whale" out of production as the platform was now more stable.[338]
+
+Twitter had approximately ninety-eight percent uptime in 2007 (or about six full days of downtime).[339] The downtime was particularly noticeable during events popular with the technology industry such as the 2008 Macworld Conference & Expo keynote address.[340][341]
+User accounts
+Privacy, security and harassment
+
+Twitter messages are public, but users can also send private "direct messages".[342] Information about who has chosen to follow an account and who a user has chosen to follow is also public, though accounts can be changed to "protected" which limits this information (and all tweets) to approved followers.[343] Twitter collects personally identifiable information about its users and shares it with third parties as specified in its privacy policy. The service also reserves the right to sell this information as an asset if the company changes hands.[344] While Twitter displays no advertising, advertisers can target users based on their history of tweets and may quote tweets in ads[345] directed specifically to the user.
+
+A security vulnerability was reported on April 7, 2007, by Nitesh Dhanjani and Rujith. Since Twitter used the phone number of the sender of an SMS message as authentication, malicious users could update someone else's status page by using SMS spoofing.[346] The vulnerability could be used if the spoofer knew the phone number registered to their victim's account. Within a few weeks of this discovery, Twitter introduced an optional personal identification number (PIN) that its users could use to authenticate their SMS-originating messages.[347]
+
+On January 5, 2009, 33 high-profile Twitter accounts were compromised after a Twitter administrator's password was guessed by a dictionary attack.[348] Some of the compromised accounts sent falsified tweets, including drug-related messages.[349]
+
+Twitter launched the beta version of their "Verified Accounts" service on June 11, 2009, allowing people with public profiles to announce their account name. The home pages of these accounts display a badge indicating their status.[350]
+
+In May 2010, a bug was discovered by İnci Sözlük that could allow a Twitter user to force others to follow them without the other users' consent or knowledge. For example, comedian Conan O'Brien's account, which had been set to follow only one person, was changed to receive nearly 200 malicious subscriptions.[351]
+
+In response to Twitter's security breaches, the United States Federal Trade Commission (FTC) brought charges against the service; the charges were settled on June 24, 2010. This was the first time the FTC had taken action against a social network for security lapses. The settlement requires Twitter to take a number of steps to secure users' private information, including maintenance of a "comprehensive information security program" to be independently audited biannually.[352]
+
+On December 14, 2010, the United States Department of Justice issued a subpoena directing Twitter to provide information for accounts registered to or associated with WikiLeaks.[353] Twitter decided to notify its users and said in a statement, "... it's our policy to notify users about law enforcement and governmental requests for their information, unless we are prevented by law from doing so."[342]
+
+A "MouseOver" exploit occurred on September 21, 2010, when an XSS Worm became active on Twitter. When a user held the mouse cursor over blacked-out parts of a tweet, the worm within the script would automatically open links and re-post itself on the reader's account.[354] The exploit was then re-used to post pop-up ads and links to pornographic sites. The origin of the worm is unclear, but Pearce H. Delphin (known on Twitter as @zzap) and a Scandinavian developer, Magnus Holm, both claim to have modified a related exploit found by another user (possibly Masato Kinugawa) who was using it to create coloured Tweets.[355] Kinugawa, a Japanese developer, reported the XSS vulnerability to Twitter on August 14. Later, when he found it was exploitable again, he created the account 'RainbowTwtr' and used it to post coloured messages.[355] Delphin says he exposed the security flaw by tweeting a JavaScript function for "onMouseOver",[355] and Holm later created and posted the XSS Worm that automatically re-tweeted itself.[354] Security firm Sophos reported that the virus was spread by people doing it for "fun and games", but noted it could be exploited by cybercriminals.[354] Twitter issued a statement on their status blog at 13:50 UTC that "The exploit is fully patched."[354][356] Twitter representative Carolyn Penner said no charges would be pressed.[357]
+
+In May 2011, a claimant known as "CTB" in the case of CTB v Twitter Inc. took action against Twitter at the High Court of Justice of England and Wales,[358] requesting that the company release details of account holders. This followed gossip posted on Twitter about professional footballer Ryan Giggs's private life. This led to the 2011 British privacy injunctions controversy and the "super-injunction".[359] Tony Wang, the head of Twitter in Europe, said that people who do "bad things" on the site would need to defend themselves under the laws of their own jurisdiction in the event of controversy and that the site would hand over information about users to the authorities when it was legally required to do so.[360] He also suggested that Twitter would accede to a UK court order to divulge names of users responsible for "illegal activity" on the site.[361]
+
+Twitter acquired Dasient, a startup that offers malware protection for businesses, in January 2012. Twitter announced plans to use Dasient to help remove hateful advertisers on the website.[362] Twitter also offered a feature which would allow tweets to be removed selectively by country, before deleted tweets used to be removed in all countries.[363][364] The first use of the policy was to block the account of German neo-Nazi group Besseres Hannover on October 18, 2012.[365] The policy was used again the following day to remove anti-Semitic French tweets with the hashtag #unbonjuif ("a good Jew").[366] In February 2012, a third-party public-key encryption app (written in Python and partially funded by a grant from the Shuttleworth Foundation[367]) for private messaging in Twitter, CrypTweet, was released.[368] A month later Twitter announced it would implement the "Do Not Track" privacy option, a cookie-blocking feature found in Mozilla's Firefox browser. The "Do Not Track" feature works only on sites that have agreed to the service.[369]
+
+In August 2012, it was reported that there was a market in fake Twitter followers used to increase politicians' and celebrities' apparent popularity.[370] The black market for the fake followers, known as "bots", has been linked to "nearly every politically linked account from the White House to Congress to the 2016 campaign trail". In June 2014, POLITICO analyzed Twitter handles with the highest rates of fake followers: U.S. President Barack Obama with 46.8 percent, Democratic National Committee Chairwoman Debbie Wasserman Schultz with 35.1 percent, and Senator John McCain with 23.6 percent. The culprits working to generate the fake followers, or "bots", included campaign workers or friends of political candidates. One site offered 1,000 fake followers for $20. The people creating the "bots" were often from Eastern Europe and Asia.[371][372] In 2013, two Italian researchers calculated 10 percent of total accounts on Twitter were "bots" although other estimates have placed the figure even higher.[373]
+
+After a number of high-profile hacks of official accounts, including those of the Associated Press and The Guardian,[374] in April 2013, Twitter announced a two-factor login verification as an added measure against hacking.[375] In August 2013, Twitter announced plans to introduce a "report abuse" button for all versions of the site following uproar, including a petition with 100,000 signatures, over Tweets that included rape and death threats to historian Mary Beard, feminist campaigner Caroline Criado-Perez and the member of parliament Stella Creasy.[376][377][378] Followed the sharing of images showing the killing of American journalist James Foley in 2014, Twitter said that in certain cases it would delete pictures of people who had died after requests from family members and "authorized individuals".[379][380]
+
+Twitter announced new reporting and blocking policies in December 2014,[381][382][383][384] including a blocking mechanism devised by Randi Harper, a target of GamerGate.[385][386][387] In February 2015, CEO Dick Costolo said he was 'frankly ashamed' at how poorly Twitter handled trolling and abuse, and admitted Twitter had lost users as a result.[388]
+
+In 2015, following updated terms of service and privacy policy, Twitter users outside the United States were legally served by the Ireland-based Twitter International Company instead of Twitter, Inc. The change made these users subject to Irish and European Union data protection laws[389]
+
+In 2016, Twitter announced the creation of the Twitter Trust & Safety Council to help "ensure that people feel safe expressing themselves on Twitter." The council's inaugural members included 50 organizations and individuals.[390]
+
+On May 5, 2018, Twitter sent out an update/mail to every customer regarding a bug that stored passwords unmasked in an internal log. According to them the investigation showed no indications of breach or misuse but recommended everyone to change their password anyway.[391]
+
+On May 13, 2019, Twitter disclosed that they had discovered a bug that accidentally shared location data from iOS devices to an advertiser. They assured that the data was not retained and that the bug was fixed.[392][393][394]
+
+On December 20, 2019, Twitter fixed a security vulnerability in its Android app that could allow a hacker to take over a user's account and send tweets or direct messages as well as see private account info.[395][396]
+
+The 2020 Democratic presidential candidate Bernie Sanders has faced criticism for the behavior of some of his supporters online but has deflected such criticism, suggesting that "Russians" were impersonating people claiming to be "Bernie Bro" supporters.[397] Twitter rejected Sanders' suggestion that Russia could be responsible for the bad reputation of his supporters. A Twitter spokesperson told CNBC: "Using technology and human review in concert, we proactively monitor Twitter to identify attempts at platform manipulation and mitigate them. As is standard, if we have reasonable evidence of state-backed information operations, we’ll disclose them following our thorough investigation to our public archive — the largest of its kind in the industry."[398]
+
+On April 8, 2020, Twitter announced that users outside of the European Economic Area or United Kingdom (thus subject to GDPR) will no longer be allowed to opt out of sharing "mobile app advertising measurements" to Twitter third-party partners.[399]
+Suspect and contested accounts
+See also: Deplatforming and Twitter suspensions
+
+In January 2016, Twitter was sued by the widow of a U.S. man killed in the 2015 Amman shooting attack, claiming that allowing the Islamic State of Iraq and the Levant (ISIL) to continually use the platform, including direct messages in particular,[400] constituted the provision of material support to a terrorist organization, which is illegal under U.S. federal law. Twitter disputed the claim, stating that "violent threats and the promotion of terrorism deserve no place on Twitter and, like other social networks, our rules make that clear."[401][402] The lawsuit was dismissed by the United States District Court for the Northern District of California, upholding the Section 230 safe harbor, which dictates that the operators of an interactive computer service are not liable for the content published by its users.[402][403] The lawsuit was revised in August 2016, providing comparisons to other telecommunications devices.[400]
+
+Twitter suspended multiple parody accounts that satirized Russian politics in May 2016, sparking protests and raising questions about where the company stands on freedom of speech.[404] Following public outcry, Twitter restored the accounts the next day without explaining why the accounts had been suspended.[405] The same day, Twitter, along with Facebook, Google, and Microsoft, jointly agreed to a European Union code of conduct obligating them to review "[the] majority of valid notifications for removal of illegal hate speech" posted on their services within 24 hours.[406] In August 2016, Twitter stated that it had banned 235,000 accounts over the past six months, bringing the overall number of suspended accounts to 360,000 accounts in the past year, for violating policies banning use of the platform to promote extremism.[407]
+
+On May 10, 2019, Twitter announced that they suspended 166,513 accounts for promoting terrorism in the July–December 2018 period, stating there was a steady decrease in terrorist groups trying to use the platform owing to its "zero-tolerance policy enforcement". According to Vijaya Gadde, Legal, Policy and Trust and Safety Lead at Twitter, there was a reduction of 19% terror related tweets from the previous reporting period (January–June 2018).[408][409][410][411][412]
+
+Similarly, Twitter banned 7,000 accounts and limited 150,000 more that had ties to QAnon on July 21, 2020. The bans and limits came after QAnon-related accounts began harassing other users through practices of swarming or brigading, coordinated attacks on these individuals through multiple accounts in the weeks prior. Those accounts limited by Twitter will not appear in searches nor be promoted in other Twitter functions. Twitter said they will continue to ban or limit accounts as necessary, with their support account stating "We will permanently suspend accounts Tweeting about these topics that we know are engaged in violations of our multi-account policy, coordinating abuse around individual victims, or are attempting to evade a previous suspension".[413]
+
+As of July 30, 2020, Twitter will block URLs in tweets that point to external websites that contain malicious content (such as malware and phishing content) as well or hate speech, speech encouraging violence, terrorism, child sexual exploitation, breaches privacy, and other similar content that is already banned as part of content of tweets on the site. Users that frequently point to such sites may have their accounts suspended. Twitter said this was to bring their policy in line to prevent users from bypassing their tweet content restrictions by simply linking to the banned content.[414]
+Malicious and fake accounts
+
+Between January and late July 2017, Twitter had identified and shut down over 7,000 fake accounts created by Iranian influence operations.[415]
+
+In May 2018, in response to scrutiny over the misuse of Twitter by those seeking to maliciously influence elections, Twitter announced that it would partner with the nonprofit organization Ballotpedia to add special labels verifying the authenticity of political candidates running for election in the U.S.[416][417]
+
+In December 2019, Twitter removed 5,929 accounts for violating their manipulation policies. The company investigated and attributed these accounts to a single state-run information operation, which originated in Saudi Arabia. The accounts were reported to be a part of a larger group of 88,000 accounts engaged in spammy behavior. However, Twitter did not disclose all of them as some could possibly be legitimate accounts taken over through hacking.[418]
+Twitter bots
+Main article: Twitter bot
+
+A Twitter bot is a computer program that automatically posts on Twitter, they are programmed to tweet, retweet, and follow other accounts. According to a recent report, there were 20 million, fewer than 5%, of accounts on Twitter that were fraudulent in 2013. These fake accounts are often used to build large follower populations quickly for advertisers, while others respond to tweets that include a certain word or phrase.[419] Twitter's wide-open application programming interface and cloud servers make it possible for twitterbots' existence within the social networking site.[420]
+Effects
+
+Twitterbots are capable of influencing public opinion about culture, products, and political agendas by automatically generating mass amounts of tweets through imitating human communication.[421] The New York Times states, "They have sleep-wake cycles so their fakery is more convincing, making them less prone to repetitive patterns that flag them as mere programs."[422] The tweets generated vary anywhere from a simple automated response to content creation and information sharing, all of which depends on the intention of the person purchasing or creating the bot. The social implications these Twitterbots potentially have on human perception are sizeable according to a study published by the ScienceDirect Journal. Looking at the Computers as Social Actors (CASA) paradigm, the journal notes, "people exhibit remarkable social reactions to computers and other media, treating them as if they were real people or real places." The study concluded that Twitterbots were viewed as credible and competent in communication and interaction making them suitable for transmitting information in the social media sphere.[423] While technological advances have enabled the ability of successful Human-Computer Interaction, the implications are questioned due to the appearance of both benign and malicious bots in the Twitter realm. Benign Twitterbots may generate creative content and relevant product updates whereas malicious bots can make unpopular people seem popular, push irrelevant products on users and spread misinformation, spam and/or slander.[424]
+
+In addition to content-generating bots, users can purchase followers, favorites, retweets, and comments on various websites that cater to expanding a user's image through the accumulation of followers. With more followers, users' profiles gain more attention, thus increasing their popularity.[425] Generating Web traffic is a valuable commodity for both individuals and businesses because it indicates notability.[426] With Twitterbots, users are able to create the illusion of "buzz" on their site by obtaining followers from services such as Swenzy and underground suppliers who operate bot farms or click farms.[421][426] The companies that facilitate this service create fake Twitter accounts that follow a number of people, some of these Twitter accounts may even post fake tweets to make it seem like they are real. This practice of obtaining mass amounts of twitterbots as followers is not permitted on Twitter.[427] The emphasis on followers and likes as a measure of social capital has urged people to extend their circle to weak and latent ties to promote the idea of popularity for celebrities, politicians, musicians, public figures, and companies alike.[428] According to The New York Times, bots amass significant influence and have been noted to sway elections, influence the stock market, public appeal, and attack governments.[429]
+Developers
+
+Twitter is recognized for having one of the most open and powerful developer APIs of any major technology company.[430] Developer interest in Twitter began immediately following its launch, prompting the company to release the first version of its public API in September 2006.[431] The API quickly became iconic as a reference implementation for public REST APIs and is widely cited in programming tutorials.[432]
+
+From 2006 until 2010, Twitter's developer platform experienced strong growth and a highly favorable reputation. Developers built upon the public API to create the first Twitter mobile phone clients as well as the first URL shortener. Between 2010 and 2012, however, Twitter made a number of decisions that were received unfavorably by the developer community.[433] In 2010, Twitter mandated that all developers adopt OAuth authentication with just 9 weeks of notice.[434] Later that year, Twitter launched its own URL shortener, in direct competition with some of its most well-known 3rd-party developers.[435] And in 2012, Twitter introduced strict usage limits for its API, "completely crippling" some developers.[436] While these moves successfully increased the stability and security of the service, they were broadly perceived as hostile to developers, causing them to lose trust in the platform.[437]
+
+In an effort to reset its relationship with developers, Twitter acquired Crashlytics on January 28, 2013 for over US$100 million, its largest acquisition to date.[438] Twitter committed to continue supporting and expanding the service.[439]
+
+In October 2014, Twitter announced Fabric, a suite of mobile developer tools built around Crashlytics.[440] Fabric brought together Crashlytics, Answers (mobile app analytics), Beta (mobile app distribution), Digits (mobile app identity and authentication services), MoPub, and TwitterKit (login with Twitter and Tweet display functionality) into a single, modular SDK, allowing developers to pick and choose which features they needed while guaranteeing ease of installation and compatibility. By building Fabric on top of Crashlytics, Twitter was able to take advantage of Crashlytics' large adoption and device footprint to rapidly scale usage of MoPub and TwitterKit. Fabric reached active distribution across 1 billion mobile devices just 8 months after its launch.[441]
+
+In early 2016, Twitter announced that Fabric was installed on more than 2 billion active devices and used by more than 225,000 developers. Fabric is recognized as the #1 most popular crash reporting and also the #1 mobile analytics solution among the top 200 iOS apps, beating out Google Analytics, Flurry, and MixPanel.[442][443]
+Innovators patent agreement
+
+On April 17, 2012, Twitter announced it would implement an "Innovators Patent Agreement" which would obligate Twitter to only use its patents for defensive purposes[clarify]. The agreement went into effect in 2012.[444]
+
+Open source
+
+Twitter has a history of both using and releasing open source software while overcoming technical challenges of their service.[445] A page in their developer documentation thanks dozens of open source projects which they have used, from revision control software like Git to programming languages such as Ruby and Scala.[446] Software released as open source by the company includes the Gizzard Scala framework for creating distributed datastores, the distributed graph database FlockDB, the Finagle library for building asynchronous RPC servers and clients, the TwUI user interface framework for iOS, and the Bower client-side package manager.[447] The popular Twitter Bootstrap web design library was also started at Twitter and is the second most popular repository on GitHub.[448]
+Society
+Man in his twenties smiling at left, man in his forties using computer at center, large crystal chandelier, several people in audience
+Dorsey (left) said after a Twitter Town Hall with Barack Obama held in July 2011, that Twitter received over 110,000 #AskObama tweets.[449]
+Main article: Twitter usage
+Usage
+Protesters
+
+Twitter has been used for a variety of purposes in many industries and scenarios. For example, it has been used to organize protests, sometimes referred to as "Twitter Revolutions",[450] which include the protests over the 2009 Moldovan election, the 2009 student protests in Austria, the 2009 Gaza–Israel conflict, the 2009 Iranian green revolution, the 2009 Toronto G20 protests, the 2010 Bolivarian Revolution, the 2010 Stuttgart21 protests in Germany, the 2011 Egyptian Revolution, 2011 England riots, the 2011 United States Occupy movement, the 2011 anti-austerity movement in Spain, the 2011 Aganaktismenoi movements in Greece, the 2011 demonstration in Rome, the 2011 Wisconsin labor protests, the 2012 Gaza–Israel conflict, the 2013 protests in Brazil, and the 2013 Gezi Park protests in Turkey.[451] A result of the Iranian election protests saw the government of Iran block Twitter in censorship.[452]
+
+The service is also used as a form of civil disobedience: In 2010, users expressed outrage over the Twitter Joke Trial by copying a controversial joke about bombing an airport and attaching the hashtag #IAmSpartacus, a reference to the film Spartacus (1960) and a sign of solidarity and support to a man controversially prosecuted after posting a tweet joking about bombing an airport if they canceled his flight. #IAmSpartacus became the number one trending topic on Twitter worldwide.[453] Another case of civil disobedience happened in the 2011 British privacy injunction debate, where several celebrities who had taken out anonymized injunctions were identified by thousands of users in protest to traditional journalism being censored.[454]
+
+During the Arab Spring in early 2011, the number of hashtags mentioning the uprisings in Tunisia and Egypt increased.[455] A study by the Dubai School of Government found that only 0.26% of the Egyptian population, 0.1% of the Tunisian population and 0.04% of the Syrian population are active on Twitter.[456]
+Governments
+
+According to documents leaked by Edward Snowden and published in July 2014, the United Kingdom's GCHQ has a tool named BIRDSONG for "automated posting of Twitter updates", and a tool named BIRDSTRIKE for "Twitter monitoring and profile collection".[457][458]
+
+During the 2019–20 Hong Kong protests, Twitter suspended a core group of 1,000 "fake" accounts and an associated network of 200,000 accounts for operating a disinformation campaign that was linked to the Chinese government. In their announcement, Twitter released two data sets detailing the core group's account activity.[459][460][461] Geng Shuang, the spokesperson of the Chinese Ministry of Foreign Affairs, did not comment on the suspensions but suggested that the activity could be attributed to overseas Chinese citizens.[462][463]
+
+On June 12, 2020, Twitter suspended over 7,000 accounts from Turkey because those accounts were fake profiles, designed to support the Turkish president and were managed by a central authority. The Turkey's communication director said that the decision was illogical, biased and politically motivated.[464]
+Censorship
+Main articles: Censorship of Twitter, Deplatforming, and Twitter suspensions
+
+Twitter is banned completely in Iran, China and North Korea,[465] and has been intermittently blocked in numerous countries including Egypt, Iraq, Turkey, Venezuela and Turkmenistan on different bases.[466][467][468][469][470] In 2016, Twitter cooperated with the Israeli government to remove certain content originating outside Israel from tweets seen in Israel.[471] In the 11th biannual transparency report published on September 19, 2017, Twitter said that Turkey was the first among countries where about 90 percent of removal requests came from, followed by Russia, France and Germany.[472] Twitter stated that between July 1 and December 31, 2018, "We received legal demands relating to 27,283 accounts from 47 different countries, including Bulgaria, Kyrgyzstan, Macedonia, and Slovenia for the first time."[473] As part of evidence to a US Senate Enquiry, the company admitted that their systems "detected and hid" several hundred thousand tweets relating to the 2016 Democratic National Committee email leak.[474] During the curfew in Jammu and Kashmir after revocation of its autonomous status on August 5, 2019, the Indian government approached Twitter to block accounts which were spreading anti-India content.[475]
+Hashtag suppression
+
+After claims in the media that the hashtags #wikileaks and #occupywallstreet were being censored because they did not show up on the site's list of trending topics, Twitter responded by stating that it does not censor hashtags unless they contain obscenities.[476][477][478]
+Trust & Safety Council
+
+The announcement of Twitter's "Trust & Safety Council" was met with objection from parts of its userbase.[479][480] Critics accused the member organizations of being heavily skewed towards "the restriction of hate speech" and a Reason article expressed concern that "there’s not a single uncompromising anti-censorship figure or group on the list".[481][482]
+Impact
+Instant, short, and frequent communication
+
+In May 2008, The Wall Street Journal wrote that social networking services such as Twitter "elicit mixed feelings in the technology-savvy people who have been their early adopters. Fans say they are a good way to keep in touch with busy friends. But some users are starting to feel too connected, as they grapple with check-in messages at odd hours, higher cellphone bills and the need to tell acquaintances to stop announcing what they're having for dinner."[483] The following year, John C. Dvorak described Twitter as "the new CB radio".[484]
+Emergency use
+
+A practical use for Twitter's real-time functionality is as an effective de facto emergency communication system for breaking news. It was neither intended nor designed for high-performance communication, but the idea that it could be used for emergency communication was not lost on the creators, who knew that the service could have wide-reaching effects early on when the company used it to communicate during earthquakes.[485]
+
+Another practical use that is being studied is Twitter's ability to track epidemics and how they spread.[486]
+
+In addition, Twitter has acted as a sensor for automatic response to natural disasters such as bush fires.[487][488]
+Education
+
+Twitter has been adopted as a communication and learning tool in educational and research[489] settings mostly in colleges and universities.[490][491] It has been used as a backchannel to promote student interactions, especially in large-lecture courses.[492] Research has found that using Twitter in college courses helps students communicate with each other and faculty, promotes informal learning, allows shy students a forum for increased participation, increases student engagement, and improves overall course grades.[493][494][495]
+
+Twitter has been an increasingly growing in the field of education, as an effective tool that can be used to encourage learning and idea, or knowledge sharing, in and outside the classroom.[496] By using or creating hashtags, students and educators are able to communicate under specific categories of their choice, to enhance and promote education. A broad example of a hashtag used in education is "edchat", to communicate with other teachers, and people using that hashtag. Once teachers find someone they want to talk to, they can either direct message the person, or narrow down the hashtag to make the topic of the conversation more specific using hashtags for scichat (science), engchat (English), sschat (social studies).[496]
+
+In a 2011 study, researchers found that young peoples use of Twitter helped to improve relationships with teachers, encourage interactive learning, and ultimately lead to high grades.[496] In the same study it was found that out of a group of 158 educators, 92% agreed that the reason they use Twitter is because of how user friendly it is,[496] another 86% agreed that they started and continue using Twitter because of how easy it is to learn, and finally,[496] 93% said they use Twitter because it is free. People found that sifting through large amounts of data is challenging, however, with the simple nature of Twitter large amount of information became easily accessible.[497] Much of this simplicity comes from the use of the hashtag, and the intuitive nature of how Twitter as a microblogging site operates.[497] These features help to promote education outside the classroom in a global setting where students and educators are easily able to create, connect, and share knowledge. This ultimately promotes growth and learning among students and educators, not just in the classroom, but virtually and around the world.
+Public figures
+
+Tech writer Bruce Sterling commented in 2007 that using Twitter for "literate communication" is "about as likely as firing up a CB radio and hearing some guy recite the Iliad".[498] In September 2008, the journalist Clive Thompson mused in a New York Times Magazine editorial that the service had expanded narcissism into "a new, supermetabolic extreme—the ultimate expression of a generation of celebrity-addled youths who believe their every utterance is fascinating and ought to be shared with the world".[499] One of the earliest documented forms of celebrity-related Twitter-like disclosures dates from 1980, when real estate mogul William Desmond Ryan made round-the-clock press releases about his relationship with comedian Phyllis Diller, even revealing what she was making him for dinner on a nightly basis.[500] Conversely, Vancouver Sun columnist Steve Dotto opined that part of Twitter's appeal is the challenge of trying to publish such messages in tight constraints,[501] and Jonathan Zittrain, professor of Internet law at Harvard Law School, said that "the qualities that make Twitter seem inane and half-baked are what makes it so powerful."[502] In that same vein, and with Sigmund Freud in mind, political communications expert Matthew Auer observed that well-crafted tweets by public figures often deliberately mix trivial and serious information so as to appeal to all three parts of the reader’s personality: the id, ego, and superego.[503]
+
+The poets Mira Gonzalez and Tao Lin published a book titled Selected Tweets featuring selections of their tweets over some eight years. The book was designed to look like a small bible.[504]
+
+The novelist Rick Moody wrote a short story for Electric Literature called "Some Contemporary Characters," composed entirely of tweets.[505]
+
+In 2009, Nielsen Online reported that Twitter had a user-retention rate of forty percent. Many people stop using the service after a month; therefore the site may potentially reach only about ten percent of all Internet users.[506] In 2009, Twitter won the "Breakout of the Year" Webby Award.[507][508] During a February 2009 discussion on National Public Radio's Weekend Edition, the journalist Daniel Schorr stated that Twitter accounts of events lacked rigorous fact-checking and other editorial improvements. In response, Andy Carvin gave Schorr two examples of breaking news stories that played out on Twitter and said users wanted first-hand accounts and sometimes debunked stories.[509] On November 29, 2009, Twitter was named the Word of the Year by the Global Language Monitor, declaring it "a new form of social interaction".[510] Time magazine acknowledged its growing level of influence in its 2010 Time 100; to determine the influence of people, it used a formula based on famous social networking sites, Twitter and Facebook. The list ranges from Barack Obama and Oprah Winfrey to Lady Gaga and Ashton Kutcher.[511][512] The U.S. government, seeing social media's role in the 2010 Arab Spring revolts, covertly developed a Cuban alternative to Twitter called ZunZuneo as part of a long-term strategy to "stir unrest". The service was active from 2010 to 2012.[513]
+
+During the 2012 Summer Olympics opening ceremony, in which he appeared at the London Olympic Stadium in person,[514] Sir Tim Berners-Lee, the founder of the World Wide Web, tweeted "This is for everyone",[515] which was instantly spelled out in LCD lights attached to the chairs of the 80,000 people in the audience.[514]
+World leaders
+Donald Trump's twitter post
+
+World leaders and their diplomats have taken note of Twitter's rapid expansion and have been increasingly utilizing Twitter diplomacy, the use of Twitter to engage with foreign publics and their own citizens. US Ambassador to Russia, Michael A. McFaul has been attributed as a pioneer of international Twitter diplomacy. He used Twitter after becoming ambassador in 2011, posting in English and Russian.[516] On October 24, 2014, Queen Elizabeth II sent her first tweet to mark the opening of the London Science Museum's Information Age exhibition.[517] A 2013 study by website Twiplomacy found that 153 of the 193 countries represented at the United Nations had established government Twitter accounts.[518] The same study also found that those accounts amounted to 505 Twitter handles used by world leaders and their foreign ministers, with their tweets able to reach a combined audience of over 106 million followers.[518]
+
+According to an analysis of accounts, the heads of state of 125 countries and 139 other leading politicians have Twitter accounts that have between them sent more than 350,000 tweets and have almost 52 million followers. However, only 30 of these do their own tweeting, more than 80 do not subscribe to other politicians and many do not follow any accounts.[519]
+
+Donald Trump has used Twitter as a method of providing ideas and information during his presidential campaign in 2016, the transitional period and as US President. A study performed at Rose-Hulman Institute of Technology showed his tweets from these different time periods and through analysis of his tweets, the professors found that President Trump uses a mode called "forensic mode" the most often in his tweets. This is described as a quick reactive usage, as they found he often used Twitter to show his judgment of the events that occurred regarding both his allies and his enemies.[520] After his election to the presidency he tweeted this "forensic-style" tweet, "Just had a very open and successful election. Now professional protesters, incited by the media, are protesting. Very Unfair!".[521]
+
+In a study done at New York University in 2015, an analysis and comparison of the Twitter accounts of Donald Trump, Jeb Bush, Bernie Sanders, and Hillary Clinton, found observations showing the goals of each candidate's Twitter during their respective primary elections. Some comparisons that were made were the use of Aristotle's theory of Rhetoric. The research found that Donald Trump used pathos, the appeal to emotion, in his rhetoric; Bernie Sanders tended to use ethos and logos for his Twitter; Hillary Clinton tended to use logos and pathos to try to convey her values, and Jeb Bush shows that he uses a mix of all three on his account. The study also looked at the media response to the tweets during the election. The study found that the tweets became more persuasive for the candidates if the media put the tweets in front of more viewers, versus less powerful if they were only visible to those already on Twitter. In that way, presidential candidates who had their tweets covered more in the news were able to get their message to more potential voters.[522]
+Religion
+
+More than twenty Roman Catholic cardinals manage active Twitter accounts,[523] nine of whom were cardinal electors for the 2013 Papal conclave.[524] Pope Benedict XVI's Twitter account was set up in 2012. As of April 2016, his successor, Pope Francis, has 9.06 million followers of his Twitter account (@Pontifex).[525]
+
+In a 2015 European Foundation for Democracy-European Policy Centre policy dialogue panel in Brussels, Mark Wallace, CEO of the "CounterExtremism Project" and former U.S ambassador to the United Nations, said: "Twitter is currently the 'gateway drug' for those seeking to recruit fighters for Islamic terrorism and this must be stopped."[526]
+Television
+
+Twitter is increasingly used for TV to be more interactive.[527] This effect is sometimes referred to as the second screen,[528] "virtual watercooler" or social television—the practice has been called "chatterboxing".[529] Twitter has been successfully used to encourage people to watch live TV events, such as the Oscars, the Super Bowl[530] and the MTV Video Music Awards; however this strategy has proven less effective with regularly scheduled TV shows.[531] Such direct cross-promotions have been banned from French television due to regulations against secret advertising.[532]
+
+In December 2012, Twitter and Nielsen entered a multi-year agreement to produce social TV ratings, which are expected to be commercially available for the fall 2013 season as the Nielsen Twitter TV Rating.[533][534] Advertising Age said Twitter had become the new TV Guide.[535] Then in February 2013, Twitter acquired Bluefin Labs for an estimated US$50 million to $100 million. Founded in 2008 at the MIT Media Lab, Bluefin is a data miner whose analysis tells which brands (e.g., TV shows and companies) are chatted about the most in social media.[533][534][536] MIT Technology Review said that Bluefin gives Twitter part of the US$72 billion television advertising market.[537]
+
+In May 2013, it launched Twitter Amplify—an advertising product for media and consumer brands.[538] With Amplify, Twitter runs video highlights from major live broadcasts, with advertisers' names and messages playing before the clip.[539] In October 2013, Comcast announced that it had partnered with Twitter to implement its "See It" feature within the service, allowing posts promoting programs on selected NBCUniversal channels to contain direct links to TV Everywhere streaming to the program. On launch, the concept was limited to NBCUniversal channels and Xfinity cable television subscribers.[540]
+
+In an attempt to compete with Twitter's leadership in TV, Facebook introduced a number of features in 2013 to drive conversation about TV including hashtags, verified profiles and embeddable posts. It also opened up new data visualization APIs for TV news and other media outlets, enabling them to search for a word and see a firehose of public posts that mention it as well as show how many people mentioned a word in both public and private posts during a set time frame, with a demographic breakdown of the age, gender, and location of these people.[541] In January 2014, Facebook announced a partnership with UK-based social TV analytics company SecondSync which saw the social network make its social TV available outside the company for the first time. Facebook struck the partnership to help marketers understand how people are using the social network to talk about topics such as TV.[542] However, Twitter responded by acquiring SecondSync and Parisian social TV firm Mesagraph three months later. These acquisitions, as well as a partnership with research company Kantar (which it had been working with to develop a suite of analytics tools for the British TV industry since August 2013) strengthened Twitter's dominance of the "second screen" – TV viewers using tablets and smartphones to share their TV experience on social media. With the additional analytic tools, Twitter was able to improve the firm's offering to advertisers, allowing them to, for instance, only promote a tweet onto the timelines of users who were watching a certain programme.[543]
+
+By February 2014, all four major U.S. TV networks had signed up to the Amplify program, bringing a variety of premium TV content onto the social platform in the form of in-tweet real-time video clips.[544] In March 2014, ITV became the first major broadcaster in the UK to sign up to Twitter Amplify[545] and Twitter introduced one-tap video playback across its mobile apps to further enhance the consumer experience.[546]
+
+In June 2014, Twitter acquired its Amplify partner in the U.S., SnappyTV.[547] In Europe, Twitter's Amplify partner is London-based Grabyo, which has also struck numerous deals with broadcasters and rights holders[81] to share video content across Facebook and Twitter.[548] In July 2017, Twitter announced that it would wind down SnappyTV as a separate company, and integrate its features into the Media Studio suite on Twitter.[549]
+Statistics
+User accounts with large follower base
+Main article: List of most-followed Twitter accounts
+
+As of 1 August 2020, the ten Twitter accounts with the most followers were:[550]
+Rank 	Change
+(monthly) 	Account name 	Owner 	Followers
+(millions) 	Activity 	Country
+1 	Steady 	@BarackObama 	Barack Obama 	121 	Former U.S. president 	 USA
+2 	Steady 	@justinbieber 	Justin Bieber 	112 	Musician 	 CAN
+3 	Steady 	@katyperry 	Katy Perry 	108 	Musician 	 USA
+4 	Steady 	@rihanna 	Rihanna 	98 	Musician and businesswoman 	 BAR
+5 	Steady 	@taylorswift13 	Taylor Swift 	87 	Musician 	 USA
+6 	Steady 	@Cristiano 	Cristiano Ronaldo 	87 	Footballer 	 POR
+7 	Steady 	@realDonaldTrump 	Donald Trump 	85 	Current U.S. president 	 USA
+8 	Steady 	@ladygaga 	Lady Gaga 	82 	Musician and actress 	 USA
+9 	Steady 	@TheEllenShow 	Ellen DeGeneres 	80 	Comedian and television hostess 	 USA
+10 	Steady 	@ArianaGrande 	Ariana Grande 	76 	Musician and actress 	 USA
+Oldest accounts
+
+The oldest Twitter accounts are 14 accounts that became active on March 21, 2006, all belonging to Twitter employees at the time and including @jack (Jack Dorsey), @biz (Biz Stone), and @noah (Noah Glass).[551]
+Record tweets
+Main article: List of most-retweeted tweets
+
+A selfie orchestrated by 86th Academy Awards host Ellen DeGeneres during the March 2, 2014 broadcast was at the time the most retweeted image ever.[552][553] DeGeneres said she wanted to pay homage to Meryl Streep's record 17 Oscar nominations by setting a new record with her, and invited other Oscar celebrities to join them. The resulting photo of twelve celebrities broke the previous retweet record within forty minutes, and was retweeted over 1.8 million times in the first hour.[554][555][556] By the end of the ceremony it had been retweeted over 2 million times; less than 24 hours later, it had been retweeted over 2.8 million times.[553][554] As of 18 March 2014, it has been retweeted over 3.4 million times.[553] The group selfie effort was parodied by Lego, and Matt Groening with The Simpsons.[557][558] It beat the previous record, 778,801, which was held by Barack Obama, following his victory in the 2012 presidential election.[556][559][560] On May 9, 2017, Ellen's record was broken by Carter Wilkerson (@carterjwm) by collecting nearly 3.5 million retweets in a little over a month.[561]
+
+According to Guinness World Records, the fastest pace to a million followers was set by actor Robert Downey Jr. in 23 hours and 22 minutes in April 2014.[562] This record was later broken by Caitlyn Jenner, who joined the site on June 1, 2015, and amassed a million followers in just 4 hours and 3 minutes.
+
+The most tweeted moment in the history of Twitter occurred on August 2, 2013; during a Japanese television airing of the Studio Ghibli film Castle in the Sky, fans simultaneously tweeted the word balse (バルス)—the incantation for a destruction spell used during its climax, after it was uttered in the film. There was a global peak of 143,199 tweets in one second, beating the previous record of 33,388.[563][564]
+
+The most discussed event in Twitter history occurred on October 24, 2015; the hashtag ("#ALDubEBTamangPanahon") for Tamang Panahon, a live special episode of the Filipino variety show Eat Bulaga! at the Philippine Arena, centering on its popular on-air couple AlDub, attracted 41 million tweets.[565][566] The most-discussed sporting event in Twitter history was the 2014 FIFA World Cup semi-final between Brazil and Germany on July 8, 2014.[567]
+
+On the day of the 2016 U.S. presidential election, Twitter proved to be the largest source of breaking news, with over 40 million tweets sent that day.[568]
+See also
+
+    Companies portal
+
+    Ambient awareness
+    Comparison of microblogging services
+    List of mergers and acquisitions by Twitter
+    Timeline of social media
+    Twitterature
+
+References
+
+https://techcrunch.com/2015/10/14/twitter-names-googles-omid-kordestani-as-its-new-executive-chairman/
+https://s22.q4cdn.com/826641620/files/doc_financials/2019/q3/Q3_19_InvestorFactSheet.pdf
+"Twitter.com Traffic, Demographics and Competitors". www.alexa.com. Retrieved April 10, 2020.
+Dorsey, Jack (March 21, 2006). "just setting up my twttr". Twitter. Retrieved February 4, 2011.
+"US SEC: Form 10-K Twitter, Inc". U.S. Securities and Exchange Commission. Retrieved June 27, 2018.
+"Twitter.com Traffic, Demographics and Competitors". www.alexa.com. Retrieved December 2, 2018.
+"Twitter - Company". about.twitter.com. Retrieved July 30, 2019.
+"Twitter CEO Jack Dorsey Recently Bought $9.5 million in Company Stock". Fortune. Reuters. April 28, 2017. Retrieved February 14, 2018.
+"MoPub Terms of Service".
+"Twitter Search Is Now 3x Faster". April 6, 2011.
+Humble, Charles (July 4, 2011). "Twitter Shifting More Code to JVM, Citing Performance and Encapsulation As Primary Drivers". InfoQ. Retrieved January 15, 2013.
+"Twitter overcounted active users since 2014, shares surge on profit hopes". USA Today.
+Arrington, Michael (July 15, 2006). "Odeo Releases Twttr". TechCrunch. AOL. Retrieved September 18, 2010.
+Shaban, Hamza (July 27, 2018). "Twitter's stock plunges 19% after it reports a decline in users". Los Angeles Times. Retrieved July 27, 2018.
+"Twitter.com Traffic, Demographics and Competitors". www.alexa.com.
+"Twitter via SMS FAQ" Retrieved April 4, 2019.
+"About Twitter" Retrieved April 24, 2014.
+"Tweeting Made Easier" Retrieved November 7, 2017.
+Twitter (March 21, 2012). "Twitter turns six". Twitter.
+"Twitter Passed 500M Users In June 2012, 140M Of Them In US; Jakarta 'Biggest Tweeting' City". TechCrunch. July 30, 2012.
+Twitter Search Team (May 31, 2011). "The Engineering Behind Twitter's New Search Experience". Twitter Engineering Blog. Twitter. Archived from the original on March 25, 2014. Retrieved June 7, 2014.
+"Twitter turns six" Twitter.com, March 21, 2012. Retrieved December 18, 2012.
+"Top Sites". Alexa Internet. Retrieved May 13, 2013.
+D'Monte, Leslie (April 29, 2009). "Swine Flu's Tweet Tweet Causes Online Flutter". Business Standard. Retrieved February 4, 2011. "Also known as the 'SMS of the internet', Twitter is a free social networking service"
+(registration required) Miller, Claire Cain (October 30, 2010). "Why Twitter's C.E.O. Demoted Himself". The New York Times. Retrieved October 31, 2010.
+"Co-founder of Twitter receives key to St. Louis with 140 character proclamation". ksdk.com. KSDK. September 19, 2009. Archived from the original on December 28, 2012. Retrieved September 29, 2009. "After high school in St. Louis and some time at the University of Missouri–Rolla, Jack headed east to New York University."
+Williams, Evan (April 13, 2011). "It's true..." Twitter. Retrieved April 26, 2011.
+"Buy a vowel? How Twttr became Twitter". CNNMoney. November 23, 2010. Retrieved June 9, 2015.
+Sagolla, Dom (January 30, 2009). "How Twitter Was Born". 140 Characters: A Style Guide for the Short Form. 140 Characters. Retrieved February 4, 2011.
+Sano, David (February 18, 2009). "Twitter Creator Jack Dorsey Illuminates the Site's Founding Document". Los Angeles Times. Retrieved June 18, 2009.
+"How Twitter Was Founded". Business Insider (April 13, 2011). Retrieved on September 4, 2013.
+Malik, Om (October 25, 2006). "Odeo RIP, Hello Obvious Corp". GigaOM. Retrieved June 20, 2009.
+Madrigal, Alexis (April 14, 2011). "Twitter's Fifth Beatle Tells His Side of the Story". The Atlantic. Retrieved April 26, 2011.
+Lennon, Andrew. "A Conversation with Twitter Co-Founder Jack Dorsey". The Daily Anchor. Archived from the original on July 27, 2009. Retrieved February 12, 2009.
+Lapowsky, Issie (October 4, 2013). "Ev Williams on Twitter's Early Years". Inc. Retrieved October 5, 2013.
+Douglas, Nick (March 12, 2007). "Twitter blows up at SXSW Conference". Gawker. Univision Communications. Retrieved May 5, 2017.
+Meyers, Courtney Boyd (July 15, 2011). "5 years ago today Twitter launched to the public". The Next Web. Retrieved May 5, 2017.
+Levy, Steven (April 30, 2007). "Twitter: Is Brevity The Next Big Thing?". Newsweek. Retrieved February 4, 2011.
+Terdiman, Daniel (March 10, 2007). "To Twitter or Dodgeball at SXSW?". CNET. CBS Interactive. Retrieved February 4, 2011.
+Stone, Biz (February 4, 2011). "We Won!". Twitter Blog. Twitter. Retrieved May 7, 2008.
+Press release (January 22, 2010). "Media Advisory M10-012 – NASA Extends the World Wide Web Out into Space". NASA. Retrieved February 5, 2011.
+Arrington, Michael (August 23, 2010). "Twitter Hires Adam Bain Away from News Corp. as President of Revenue". TechCrunch. AOL. Retrieved February 5, 2011.
+Beaumont, Claudine (February 23, 2010). "Twitter Users Send 50 Million Tweets Per Day – Almost 600 Tweets Are Sent Every Second Through the Microblogging Site, According to Its Own Metrics". The Daily Telegraph. London. Retrieved February 7, 2011.
+"Twitter Registers 1,500 Per Cent Growth in Users". New Statesman. March 4, 2010. Retrieved February 7, 2011.
+Garrett, Sean (June 18, 2010). "Big Goals, Big Game, Big Records". Twitter Blog (blog of Twitter). Retrieved February 7, 2011.
+"Twitter Blog: #numbers". Blog.twitter.com. March 14, 2011. Retrieved January 20, 2012.
+Kazeniac, Andy (February 9, 2009). "Social Networks: Facebook Takes Over Top Spot, Twitter Climbs". Compete.com. Archived from the original on July 21, 2011. Retrieved February 17, 2009.
+Miller, Claire Cain (June 18, 2010). "Sports Fans Break Records on Twitter". Bits (blog of The New York Times). Retrieved February 7, 2011.
+Van Grove, Jennifer (June 25, 2010). "Twitter Sets New Record: 3,283 Tweets Per Second". Mashable. Retrieved February 7, 2011.
+"Women's World Cup Final breaks Twitter record". ESPN. July 18, 2011. Retrieved July 31, 2011.
+Shiels, Maggie (June 26, 2009). "Web Slows After Jackson's Death". BBC News. Retrieved February 7, 2011.
+"New Tweets per second record, and how!". twitter.com.
+Kanalley, Craig (January 2, 2013). "Tweets-Per-Second Record Set By Japan, Korea On New Year's Day 2013". The Huffington Post. Retrieved January 3, 2013.
+Miller, Claire Cain (April 11, 2010). "Twitter Acquires Atebits, Maker of Tweetie". Bits (blog of The New York Times). Retrieved February 7, 2011.
+Rayome, Alison DeNisco. "Facebook was the most-downloaded app of the decade". CNET. Retrieved December 18, 2019.
+Praetorius, Dean (May 4, 2011). "Twitter Users Report Twitter.com Has A New Homepage (SCREENSHOTS)". The Huffington Post. Retrieved May 22, 2011.
+Dunn, John E (April 6, 2011). "Twitter Delays Homepage Revamp After Service Glitch". PCWorld. Retrieved May 22, 2011.
+Crum, Chris (April 20, 2011). "New Twitter Homepage Launched". Archived from the original on April 24, 2011. Retrieved April 25, 2011.
+"Twitter: Yours to discover". Fly.twitter.com. Retrieved January 20, 2012.
+Twitter / YouTube (April 7, 2010). "Twitter 2.0: Everything You Need To Know About The New Changes". Fox News. Retrieved January 20, 2012.
+"Twitter partners with Yandex for real-time search". Reuters. February 21, 2012.
+"Twitter Says It Has 140 Million Users". Mashable. March 21, 2012.
+"Twitter heads to Motown to be closer to automakers". Reuters. April 4, 2012. Retrieved April 5, 2012.
+"Twitter to create 12 jobs as it scales up Irish operations". Irish Independent. April 4, 2012. Retrieved April 5, 2012.
+Rodriguez, Salvador (June 6, 2012). "Twitter flips the bird, adopts new logo". Los Angeles Times. Tronc. Archived from the original on July 12, 2012. Retrieved May 5, 2017.
+Gilbertson, Scott (June 8, 2012). "Twitter's New Logo Inspires Parodies, CSS Greatness". Wired. Retrieved May 5, 2017.
+"Twitter Acquires Video Service; Are Third Party Video Developers In Danger Now Too?". MediaBistro. October 9, 2012. Archived from the original on October 11, 2012. Retrieved October 10, 2012.
+"Twitter Buys Vine, a Video Clip Company That Never Launched". All Things D. October 9, 2012. Retrieved October 10, 2012.
+Dredge, Stuart (January 23, 2013). "Vine iPhone app brings short, sharp video to Twitter". The Guardian. London. Retrieved January 26, 2013.
+Ghosh, Shona (September 29, 2018). "What really happened to the man behind a viral Twitter thread about Apple deleting his movies". Business Insider. Retrieved September 17, 2018.
+"Twitter's Vine Changes App Store Rating to +17, Adds Social Sharing Features". ABC News. February 7, 2013.
+"Twitter Now Has More Than 200 Million Monthly Active Users". Mashable. December 18, 2012.
+"Twitter's Boston Acquisitions: Crashlytics Tops $100M, Bluefin Labs Close Behind | Xconomy". Xconomy. February 5, 2013. Retrieved December 16, 2016.
+Ulanoff, Lance. "Twitter Launches Twitter #music App and Service". Mashable. Mashable. Retrieved April 28, 2013.
+"Twitter acquires real-time social data company Trendrr to help it better tap into TV and media". The Next web. August 28, 2013. Retrieved August 29, 2013.
+Isidore, Chris (September 10, 2013). "Twitter makes another acquisition". CNN Money. Retrieved September 10, 2013.
+Moore, Heidi (September 12, 2013). "Twitter files for IPO in first stage of stock market launch". The Guardian. Retrieved September 13, 2013.
+Shih, Gerry (June 6, 2014). "Twitter acquires mobile advertising startup Namo Media". Reuters. Retrieved June 6, 2014.
+Calia, Michael (June 19, 2014). "Twitter Boosts Video Push With SnappyTV Buy". The Wall Street Journal. Retrieved June 19, 2014.
+Tom Cheredar, Venture Beat. "Twitter buys SnappyTV to beef up its arsenal of TV-focused ad tools". June 19, 2014. Retrieved June 19, 2014.
+Sawers, Paul (June 19, 2014). "Twitter's evolution as a broadcasting platform continues as it acquires live-TV clipping service SnappyTV". The Next Web. Retrieved August 28, 2014.
+"With CardSpring Deal, Twitter's E-Commerce Strategy Emerges in Time for Holidays". July 20, 2014. Retrieved July 21, 2014.
+Austin, Scott (July 31, 2014). "Twitter Acquires Security-Password Startup Mitro". The Wall Street Journal. Retrieved August 1, 2014.
+Lopes, Marina. "IBM, Twitter to partner on business data analytics". Reuters. October 29, 2014. Retrieved October 29, 2014.
+Ha, Anthony. "Twitter Acquires Niche, A Startup That Helps Advertisers Work With Social Media Celebrities". TechCrunch. Retrieved April 10, 2016.
+"Twitter buys Niche, an ad network for Vine stars, for about $50 million in cash and stock". Business Insider. Retrieved April 10, 2016.
+Constine, Josh (March 13, 2015). "Twitter Confirms Periscope Acquisition, And Here's How The Livestreaming App Works". Retrieved April 10, 2015.
+"Twitter.com gets a refresh". blog.twitter.com. Retrieved July 30, 2019.
+Constine, Josh (April 29, 2015). "Twitter Improves Ads By Acquiring TellApart, Selling Them Through Google's DoubleClick". Retrieved April 29, 2015.
+Rosoff, Matt (April 29, 2015). "Twitter's price for TellApart: $532 million". Retrieved April 30, 2015.
+Ingram, Matthew (October 25, 2015). "What if the Twitter growth everyone is hoping for never comes?". Fortune. Retrieved September 23, 2016.
+Beaver, Laurie; Boland, Margaret (October 28, 2015). "Twitter user growth continues to stall". Business Insider. Retrieved September 23, 2016.
+Beck, Martin (October 27, 2015). "Revenue Is Up, But Twitter Is Still Struggling In Slow Growth Mode". Marketing Land. Retrieved September 23, 2016.
+Truong, Alice (February 10, 2016). "Twitter now has a problem that's way worse than slow user growth". Quartz. Retrieved September 23, 2016.
+Murgia, Madhumita (June 20, 2016). "Twitter pays $150m for London AI startup Magic Pony". The Telegraph. Retrieved April 23, 2017.
+Lunden, Ingrid (June 20, 2016). "Twitter pays up to $150M for Magic Pony Technology, which uses neural networks to improve images". TechCrunch. AOL. Retrieved April 23, 2017.
+Roth, Yoel; Pickles, Nick (May 11, 2020). "Updating our Approach to Misleading Information". Twitter. Retrieved May 28, 2020.
+Lybrand, Holmes; Subramaniam, Tara (May 27, 2020). "Fact-checking Trump's recent claims that mail-in voting is rife with fraud". CNN. Retrieved May 28, 2020.
+Romm, Tony (July 11, 2019). "Trump accuses social media companies of 'terrible bias' at White House summit decried by critics". The Washington Post. Retrieved May 28, 2020.
+"Executive Order on Preventing Online Censorship". Whitehouse.gov. Retrieved May 29, 2020.
+"Stung By Twitter, Trump Signs Executive Order To Weaken Social Media Companies". npr.org. National Public Radio. Retrieved May 29, 2020.
+"rump signs executive order targeting social media companies". CNN. CNN. Retrieved May 29, 2020.
+"Defying Trump, Twitter Doubles Down on Labeling Tweets". nytimes. New York Times. Retrieved May 29, 2020.
+"About public-interest exceptions on Twitter". Twitter Help Center. Retrieved May 29, 2020.
+@TwitterComms (May 29, 2020). "We have placed a public interest notice on this Tweet from @realdonaldtrump" (Tweet) – via Twitter.
+Spangler, Todd (May 29, 2020). "Twitter Adds Warning Label to Donald Trump's Tweet About 'Shooting' Protesters in Minneapolis, Saying It Glorifies Violence". Variety. Retrieved May 29, 2020.
+"Twitter hides Trump tweet for 'glorifying violence'". BBC News. May 29, 2020. Retrieved May 29, 2020.
+Statt, Nick (July 15, 2020). "Barack Obama, Joe Biden, Elon Musk, Apple, and others hacked in unprecedented Twitter attack". The Verge. Retrieved July 15, 2020.
+Popper, Nathaniel; Conger, Kate (July 17, 2020). "Hackers Tell the Story of the Twitter Attack From the Inside". The New York Times. Retrieved July 17, 2020.
+McMillan, Robert; Volz, Dustin (July 19, 2020). "FBI Investigates Twitter Hack Amid Broader Concerns About Platform's Security". The Wall Street Journal. Retrieved July 7, 2020.
+Miller, Claire Cain; Goel, Vindu (October 16, 2008). "Twitter Sidelines One Founder and Promotes Another". Bits (blog of The New York Times). Retrieved February 5, 2011.
+(registration required) Miller, Claire Cain (October 20, 2008). "Popularity or Income? Two Sites Fight It Out". The New York Times. Retrieved November 5, 2008.
+McCarthy, Caroline (October 16, 2008). "Twitter CEO Jack Dorsey Steps Down". CNET. CBS Interactive. Retrieved November 5, 2008.
+"#newtwitterceo". Blog of Twitter. October 4, 2010. Retrieved February 5, 2011.
+"Twitter CEO Evan Williams Stepping Down". Mashable. October 4, 2010.
+Miller, Claire Cain (March 28, 2011). "Two Twitter Founders Trade Places". The New York Times. Retrieved March 28, 2011.
+Albanesius, Chloe (March 29, 2011). "Twitter's Evan Williams Confirms Departure". PC Magazine. Ziff Davis. Retrieved March 29, 2011.
+Newton, Casey (January 7, 2014). "Twitter Founder Biz Stone Launches Jelly, A Social Q&A Network for Mobile". The Verge. Retrieved September 12, 2014.
+"Twitter Shakes Things Up Again: Fred Wilson, Bijan Sabet Leaving Board – Peter Kafka – Social". AllThingsD. September 16, 2011. Retrieved November 14, 2011.
+Olanoff, Drew. "Twitter Poaches Former Google Exec Matt Derella As New Director Of Agency Business Development". October 23, 2012. Retrieved October 24, 2012.
+Reuters. "Twitter replaces CFO with former Goldman manager". July 1, 2014. Retrieved June 15, 2015.
+Goel, Vindu (June 11, 2015). "Twitter's Embattled Chief Executive, Costolo, Will Resign". New York Times. Retrieved June 11, 2015.
+Koh, Yoree, "Twitter CFO's Ascent Creates New Power Center" (please edit this parenthetical note to "subscribers only" if link does not work for non-subscribers), Wall Street Journal, June 15, 2015. Retrieved June 15, 2015.
+Koh, Yoree (October 14, 2015). "Twitter Taps Former Google Officer as Executive Chairman". The Wall Street Journal. Retrieved October 17, 2015.
+Kosoff, Maya. "Twitter just named its new CMO". Business Insider. Retrieved January 29, 2016.
+"Twitter COO Adam Bain to Leave the Company". Fortune. Retrieved December 21, 2016.
+Isaac, Mike (November 9, 2016). "Twitter's Chief Operating Officer to Step Down". The New York Times. ISSN 0362-4331. Retrieved December 21, 2016.
+Lynley, Matthew. "Twitter's CTO Adam Messinger is leaving the company along with VP of product Josh McFarland". TechCrunch. Retrieved December 21, 2016.
+Isaac, Mike (December 20, 2016). "Twitter's Chief Technology Officer to Leave Company". The New York Times. ISSN 0362-4331. Retrieved December 21, 2016.
+"Elliott targets Twitter, seeking CEO Dorsey's removal: sources". Reuters. February 29, 2020. Retrieved March 2, 2020.
+Driebusch, Corrie (March 9, 2020). "Twitter, Elliott Strike Truce That Leaves CEO Dorsey in Place". Wall Street Journal. ISSN 0099-9660. Retrieved March 9, 2020.
+Rehak, Melanie (August 8, 2014). "Who Made That Twitter Bird?". The New York Times. Retrieved April 2, 2018.
+Rehak, Melanie (August 8, 2014). "Who Made That Twitter Bird?". The New York Times. Retrieved July 31, 2019.
+Freeman, Eric (August 2011). "Twitter's Logo Is Named After Larry Bird". Yahoo!Sports. Retrieved March 1, 2012.
+Halliday, Josh (June 7, 2012). "No flipping the bird! Twitter unveils strict usage guidelines for new logo". The Guardian. Retrieved October 11, 2014.
+Griggs, Brandon (June 7, 2012). "Twitter's bird logo gets a makeover". CNN. Retrieved June 7, 2012.
+"Tweet from @support (now @TwitterSupport)". Twitter. May 30, 2014. Retrieved July 12, 2018.
+"Know Your Twitter Terms: 'Block' vs. 'Mute'". Wired. Retrieved July 20, 2020.
+Gibbs, Samuel (May 13, 2014). "13 reasons to mute people on Twitter". The Guardian. Retrieved July 21, 2020.
+"Using Twitter with Your Phone". Twitter Support. Archived from the original on March 15, 2010. Retrieved June 1, 2010. "We currently support 2-way (sending and receiving) Twitter SMS via short codes and one-way (sending only) via long codes."
+Stone, Biz (October 30, 2009). "There's a List for That". blog.twitter.com. Retrieved February 1, 2010.
+Brown, Amanda (March 2, 2011). "The tricky business of business tweeting". The Irish Times. Retrieved April 28, 2011.
+"Twitter officially kills off favorites and replaces them with likes". The Verge. Vox Media. Retrieved November 4, 2015.
+"Download the free Twitter app | Twitter". twitter.com. Retrieved July 30, 2019.
+Stutzman, Fred (April 11, 2007). "The 12-Minute Definitive Guide to Twitter". AOL Developer Network. Archived from the original on July 4, 2008. Retrieved November 12, 2008.
+Johnson, Steven (June 5, 2009). "How Twitter Will Change the Way We Live". Time. Retrieved February 13, 2011.
+Murphy, David (April 13, 2014). "44 Percent of Twitter Accounts Have Never Tweeted". PC Magazine.
+@jack (March 21, 2006). "just setting up my twttr" (Tweet) – via Twitter.
+Glenday, Craig (2010). Guinness World Records 2011. ISBN 9781904994572.
+Kelly, Ryan, ed. (August 12, 2009). "Twitter Study – August 2009". Twitter Study Reveals Interesting Results About Usage (PDF). San Antonio, Texas: Pear Analytics. Archived from the original (PDF) on July 15, 2011.
+boyd, danah (August 16, 2009). "Twitter: "pointless babble" or peripheral awareness + social grooming?". Retrieved September 19, 2009.
+Avery Holton, Kang Baek, Mark Coddington, Yaschur, Carolyn (2014). "Seeking and Sharing: Motivations for Linking on Twitter". Communication Research Reports. 31 (1): 33–40. doi:10.1080/08824096.2013.843165.
+Strachan, Donald (February 19, 2009). "Twitter: How To Set Up Your Account". The Daily Telegraph. London. Retrieved February 13, 2011.
+Twitter is testing a way to let you limit replies to your tweets - Jay Peters, The Verge, May 20, 2020
+"Twitter Lists!". Support forum at help.twitter.com. n.d. Archived from the original on December 22, 2009. Retrieved February 13, 2011.
+Andrews, Robert (March 27, 2009). "Twitter Brings Back UK SMS; Vodafone First, Others To Follow". The Guardian. London. Retrieved June 7, 2009.
+"Blog.Twitter.com". Blog.Twitter.com. November 16, 2009. Retrieved March 28, 2010.
+Kutty, Darpana (October 15, 2009). "Twitter, Bharti Airtel Tie-Up To Activate Twitter SMS Service in India". topnews.in. Retrieved February 23, 2011.
+"SMStweet :: Send Twitter Message sing SMS in India". India. Archived from the original on September 21, 2018. Retrieved April 3, 2010.
+Balanarayan, N.T. (December 17, 2009). "Tweeting Via SMS Is In, the Way It Should Be". Daily News and Analysis. Retrieved February 23, 2011.
+"Update Twitter or Plurk by sending an SMS to a Singapore or Malaysia local number". Singapore. Retrieved April 3, 2010.
+"About Twitter's Link Service <http://t.co>". Twitter Help Center (module of Twitter). Archived from the original on February 25, 2011. Retrieved February 23, 2011.
+Penner, Carolyn (June 7, 2011). "Link Sharing Made Simple". Twitter Blog (blog of Twitter). Retrieved June 9, 2011.
+"Twitter disables tweeting via SMS after CEO gets hacked". The Verge. September 4, 2019.
+https://mashable.com/article/twitter-sms-changes-account-removals/?europe=true
+https://www.theverge.com/2020/4/27/21238131/twitter-sms-notifications-disabled-jack-dorsey-hack
+"Coming soon to Twitter: More room to tweet". Associated Press. May 24, 2016. Retrieved May 24, 2016.
+Lever, Rob (May 24, 2016). "Twitter eases 140 character limit". Yahoo Tech. Retrieved May 25, 2016.
+TheVerge articlefrom 2017-03-30: Mentioning overhaul of Twitter's reply system: No longer counts towards former 140-character limitation.
+"Giving you more characters to express yourself". Retrieved September 27, 2017.
+Twitter Blog article: "Accessible images for everyone!"
+Twitter Help center: Picture Descriptions - How to make images accessible for people
+Garrett, Sean (June 8, 2010). "Links and Twitter: Length Shouldn't Matter". Twitter Blog (blog of Twitter). Retrieved February 23, 2011.
+Metz, Cade (September 2, 2010). "Twitter Tightens Grip on Own Firehose". The Register. Retrieved February 23, 2011.
+Weisenthal, Joe (May 6, 2009). "Twitter Switches from TinyURL to Bit.ly". Business Insider. Retrieved February 23, 2011.
+"Bloggers back media against youth league". Archived from the original on July 18, 2011. Retrieved April 3, 2010.
+"Top Twitter Trends of 2009". Retrieved April 3, 2010.
+Woollaston, Vicky. "Justin Bieber fans beat Twitter 'block' | Web User magazine". Webuser.co.uk. Archived from the original on November 22, 2012. Retrieved January 20, 2012.
+Weiner, David (June 21, 2009). "#Thatsafrican – When Twitter Went Racist?". Huffington Post. Retrieved April 3, 2010.
+"Thingsdarkiessay causes a Twitter storm". South Africa: Independent Online. November 5, 2009. Retrieved January 11, 2012.
+Gupta, Kanchan (August 13, 2013). "Role of Twitter in trending wars". NITI Central. Archived from the original on August 16, 2013. Retrieved August 14, 2013.
+Pierce, David (October 6, 2015). "Meet Moments, Twitter's Most Important New Feature Ever". Wired. ISSN 1059-1028. Retrieved July 17, 2019.
+Newton, Casey (October 6, 2015). "Twitter launches Moments, its dead-simple tab for browsing the best tweets". The Verge. Retrieved July 17, 2019.
+Kastrenakes, Jacob (September 28, 2016). "Twitter opens its Moments feature up to everyone". The Verge. Retrieved July 17, 2019.
+"Inside Twitter Clients – An Analysis of 500 Million Tweets". Sysomos. November 2009. Archived from the original on September 1, 2010. Retrieved August 23, 2010.
+Stone, Biz (June 6, 2009). "Not Playing Ball". Twitter.
+Kanalley, Craig (March 12, 2013). "Why Twitter Verifies Users: The History Behind the Blue Checkmark". Huffington Post. Retrieved June 9, 2014.
+Cashmore, Pete (June 11, 2009). "Twitter Launches Verified Accounts". Retrieved June 9, 2014.
+"FAQs about verified accounts". Archived from the original on July 19, 2016.
+"About verified accounts". Archived from the original on July 20, 2016.
+"Announcing an Application Process for Verified Accounts". Twitter. July 19, 2016.
+Burgess, Matt (July 20, 2016). "Twitter opens verification to all". Wired. Retrieved September 16, 2016.
+Tiku, Nitasha (November 10, 2017). "Twitter's Authentication Policy Is a Verified Mess". Wired.
+Dises, Jill (November 9, 2017). "Twitter suspends blue check mark verifications". CNN Tech. Retrieved November 10, 2017.
+@TwitterSupport (November 9, 2017). "Verification was meant to authenticate identity & voice but it is interpreted as an endorsement or an indicator of importance. We recognize that we have created this confusion and need to resolve it. We have paused all general verifications while we work and will report back soon" (Tweet) – via Twitter.
+@jack (November 9, 2017). "We should've communicated faster on this (yesterday): our agents have been following our verification policy correctly, but we realized some time ago the system is broken and needs to be reconsidered. And we failed by not doing anything about it. Working now to fix faster" (Tweet) – via Twitter.
+Wagner, Kurt (September 12, 2013). "Twitter Unveils Exclusive Feature For Verified Users". Retrieved June 9, 2014.
+Spangler, Todd (March 9, 2018). "Twitter CEO Wants to Open Up Verified Accounts to Everyone". Variety. Retrieved March 9, 2018.
+"#CancelAllBlueTicksInIndia trends on Twitter, netizens slam caste-based discrimination". The Economic Times. November 6, 2019. Retrieved February 6, 2020.
+"#cancelallBlueTicksinIndia Trends As Twitter Faces Caste Storm". The Quint. November 6, 2019. Retrieved February 6, 2020.
+"Why Dalit activists are furious with 'casteist' Twitter". Free Press Journal. Retrieved February 6, 2020.
+"'The Blue Janeu': As Critics Cry 'Casteism', Twitter Ducks for Cover". The Wire. Retrieved February 6, 2020.
+"Twitter reacts to accusations of caste bias, says it's 'impartial'". Free Press Journal. Retrieved February 6, 2020.
+"Twitter Cites 'Case-By-Case' Verification Policy as Casteism Allegations Ravage Platform". News18. Retrieved February 6, 2020.
+mobile.twitter.com
+"Twitter apps for phones, tablets and computers". Twitter. Archived from the original on April 2, 2017. Retrieved April 6, 2017.
+"Tweeting via text message". Twitter Help Center. Twitter. Retrieved April 6, 2017.
+Byford, Sam (April 6, 2017). "Twitter Lite is a faster, leaner mobile web version of Twitter". The Verge. Vox Media. Retrieved April 6, 2017.
+Russell, Jon (April 6, 2016). "Twitter launches a 'lite' mobile web app that's optimized for emerging markets". TechCrunch. AOL. Retrieved April 6, 2017.
+"Twitter officially unveils lite version for PH users". June 14, 2017. Retrieved June 16, 2017.
+Wauters, Robin (August 17, 2012). "Twitter API Changes Set Maximum User Cap for 3rd Parties". Thenextweb.com. Retrieved May 9, 2013.
+"Twitter Applications and OAuth". Twitter. August 30, 2010. Retrieved September 13, 2010.
+Mlot, Stephanie. "Twitter Adds 'Related Headlines' to Embedded Tweets". PC Magazine. Retrieved June 9, 2014.
+"Your Twitter Feed Is About to Be Flooded With Polls". Wired. October 21, 2015. Retrieved October 23, 2015.
+"Twitter now with integrated photo-sharing service and completely new twitter search". Techshrimp. June 1, 2011. Archived from the original on June 30, 2011. Retrieved June 1, 2011.
+Mike Flacy "Twitter photo sharing goes live for all users", Digital Trends. August 9, 2011. Retrieved August 10, 2011.
+"Twitter and CBS News to partner for live stream of Republican and Democratic National Conventions". CBSNews.com. CBS News. Retrieved July 11, 2016.
+"Twitter plans to broadcast live video 24 hours a day". The Verge. April 26, 2017. Retrieved May 12, 2017.
+Brodkin, Jon (April 5, 2016). "Twitter buys NFL streaming rights for 10 Thursday Night Football games". Ars Technica. Retrieved April 5, 2016.
+"Twitter still thinks it's a TV platform — and here are its dozen new shows". Re/code. Vox Media. May 2, 2017. Retrieved May 12, 2017.
+"Twitter Pushes Live-Video Deals With MLB, NFL, Viacom, BuzzFeed, Live Nation, WNBA and More". Variety. May 2017. Retrieved May 12, 2017.
+Spangler, Todd (August 29, 2017). "NFL Sets Kickoff of Twitter Live Show for 2017-18 Season". Variety. Retrieved August 30, 2017.
+"Twitter signed a new live video deal with the NFL that doesn't include games". The Verge. May 11, 2017. Retrieved May 12, 2017.
+"PGA Tour, Twitter Ink Live-Streaming Deal for Coverage of Thursday, Friday Rounds". Golf.com. January 5, 2017. Retrieved May 12, 2017.
+"Sinclair Partners to Revamp, Relaunch Sports Network". Broadcasting and Cable. Retrieved April 15, 2017.
+"American Sports Network, Campus Insiders, and 120 Sports Announce Mega-Merger Deal". Underdog Dynasty (SBNation). Vox Media. April 13, 2017. Retrieved April 15, 2017.
+"Is Twitter the new home for Southern Miss football?". Sun Herald. Retrieved May 12, 2017.
+Blog.Twitter.com article "Your Twitter archive"
+2012 SearchEngineLand article on browsing tweets offline.
+"Twitter.com". Alexa Internet. March 23, 2018. Retrieved March 23, 2018.
+Alexa topsites. Retrieved September 15, 2019. https://www.alexa.com/topsites
+Hoffman, Stefanie (April 29, 2009). "Twitter Quitters Outnumber Those Who Stay, Report Finds". United Business Media. Archived from the original on January 11, 2012. Retrieved April 29, 2009.
+McGiboney, Michelle (March 18, 2009). "Twitter's Tweet Smell of Success". Nielsen. Archived from the original on February 22, 2011. Retrieved April 5, 2009.
+"Global Social Networks Ranked by Number of Users". Statista. Retrieved June 18, 2017.
+Fiegerman, Seth. "Twitter is now losing users in the U.S." CNNMoney. Retrieved March 23, 2018.
+"Twitter Lite expands to 21 more countries, adds push notifications". TechCrunch. Retrieved August 16, 2018.
+"comScore Report: Twitter Usage Exploding in Brazil, Indonesia and Venezuela". Bill Hartzer. August 11, 2010. Retrieved May 22, 2011.
+"The Netherlands lead Global Markets in Twitter.com reach". Comscoredatamine.com. February 10, 2011. Archived from the original on April 15, 2011. Retrieved May 22, 2011.
+Miller, Claire Cain (August 25, 2009). "Who's Driving Twitter's Popularity? Not Teens". The New York Times. Retrieved September 18, 2009.
+Lipsman, Andrew (September 2, 2009). "What Ashton vs. CNN Foretold About the Changing Demographics of Twitter". comScore. Archived from the original on September 7, 2009. Retrieved September 18, 2009.
+Cheng, Alex; Evans, Mark (June 2009). "Inside Twitter – An In-Depth Look Inside the Twitter World". Sysomos. Retrieved February 23, 2011.
+Bluff, Brian (May 2010). "Who Uses Twitter?". site-seeker.com. Archived from the original on May 31, 2010. Retrieved September 22, 2010.
+Chen, Adrian (May 17, 2011). "Why So Many Black People Are On Twitter". Gawker. Univision Communications. Retrieved May 5, 2017.
+Saint, Nick (April 30, 2010). "Why Is Twitter More Popular With Black People Than White People?". Business Insider. Axel Springer SE. Retrieved May 5, 2017.
+Taylor, Chris (September 8, 2011). "Twitter has 100 million active users".
+Yarrow, Jay, "There's Only One Place In The World Where Twitter Is Bigger Than Facebook", Business Insider, January 6, 2012. Retrieved January 11, 2012.
+"Twitter Reports First Quarter 2014 Results". Archived from the original on June 9, 2014. Retrieved June 9, 2014.
+"Twitter, Inc Common Stock". Retrieved June 9, 2014.
+Duggan, Maeve (December 30, 2013). "Social Media Update 2013". Retrieved June 9, 2014.
+"Twitter reaches half a billion accounts – More than 140 millions in the U.S." Semiocast. Retrieved October 7, 2014.
+"Social Media Update 2016". Pew Research Center: Internet, Science & Tech. November 11, 2016. Retrieved March 23, 2018.
+"Share of U.S. adults using social media, including Facebook, is mostly unchanged since 2018". Pew Research Center. Retrieved July 11, 2020.
+Madrigal, Alexis C. (April 24, 2019). "Twitter Is Not America". The Atlantic. Retrieved July 11, 2020.
+McCracken, Austin Carr and Harry (April 4, 2018). ""Did We Create This Monster?" How Twitter Turned Toxic". Fast Company. Retrieved July 11, 2020.
+"2013 Annual Report" (PDF).
+"2014 Annual Report" (PDF).
+"2015 Annual Report" (PDF).
+"2016 Annual Report" (PDF).
+"2017 Annual Report" (PDF).
+"2018 Annual Report" (PDF).
+"Twitter Raises over $35M in Series C". MarketingVOX. February 16, 2009. Archived from the original on August 7, 2011. Retrieved February 23, 2011.
+Womack, Brian (November 12, 2008). "Twitter Shuns Venture-Capital Money as Startup Values Plunge". Bloomberg. Retrieved February 23, 2011.
+Miller, Claire Cain (October 16, 2008). "Twitter Sidelines One Founder and Promotes Another". Bits (blog of The New York Times). Retrieved February 23, 2011.
+Snyder, Bill (March 31, 2008). "Twitter: Fanatical Users Help Build the Brand, But Not Revenue". The Industry Standard (via InfoWorld). Archived from the original on March 16, 2010. Retrieved February 23, 2011.
+Miller, Claire Cain (June 19, 2009). "Twitter Plans To Offer Shopping Advice and Easy Purchasing". Bits (blog of The New York Times). Retrieved February 23, 2011.
+"Will Twitter Be Google's Next YouTube?". ECommerce Times. March 9, 2009.
+Stone, Brad (September 24, 2009). "Twitter's Latest Valuation: $1 Billion". New York Times Bits blog.
+Ante, Spencer E.; Efrati, Amir; Das, Anupretta (February 10, 2011). "Twitter as Tech Bubble Barometer". The Wall Street Journal. Retrieved February 23, 2011.
+Carlson, Nicholas (March 4, 2011). "Twitter Valued At $7.8 Billion In Private Market Auction". Business Insider via San Francisco Chronicle. Hearst. Retrieved March 26, 2011.
+Delevett, Peter (August 1, 2011). "Twitter lands $800 million venture capital deal, breaking record". San Jose Mercury News.
+Scott, Mark (December 19, 2011). "Saudi Prince Invests $300 Million in Twitter". The New York Times. Retrieved December 19, 2011.
+"In Any Acquisition, Here's How Much We Think Twitter Is Worth". Forbes. Retrieved March 23, 2018.
+"Hacker Exposes Private Twitter Documents". Bits (blog of The New York Times). July 15, 2009. Retrieved February 23, 2011.
+Stone, Biz (July 15, 2007). "Twitter, Even More Open Than We Wanted". Twitter Blog (blog of Twitter). Retrieved February 23, 2011.
+Arthur, Charles (April 13, 2010). "Twitter Unveils 'Promoted Tweets' Ad Plan – Twitter To Let Advertisers Pay for Tweets To Appear in Search Results". The Guardian. London. Retrieved February 23, 2011.
+Kimberley, Sara (April 13, 2010). "Twitter Debuts 'Promoted Tweets' Ad Platform". MediaWeek (U.K. edition). Retrieved February 5, 2011.
+Laurent, Olivier (May 11, 2011). "Photo agency's CEO addresses TwitPic controversy". British Journal of Photography. London. Archived from the original on August 3, 2011. Retrieved August 17, 2011. "The deal will give WENN exclusive rights to sell images posted on the TwitPic service."
+Wasserman, Todd (June 9, 2011). "Twitter Will Automate Ad-Buying by the End of the Year". Mashable.com. Retrieved November 14, 2011.
+Miners, Zach (April 30, 2013). "Twitter opens self-service ads to everyone". CMO. IDG Communications. Retrieved August 18, 2014.
+"Twitter Rolls Out Promoted Tweets for Mobile"; Wasserman, Todd. March 20, 2012. mashable.com.
+Swant, Mary. "Twitter Is Helping Brands Drive Conversations With Instant Unlock Cards". Adweek. Retrieved August 4, 2016.
+"Twitter plans stock market listing". BBC News. September 12, 2013. Retrieved September 13, 2013.
+"Twitter's filing for IPO". The New York Times. November 7, 2013. Retrieved September 23, 2016.
+"Twitter wants to raise $1bn in its stock market debut". BBC News. October 4, 2013. Retrieved October 12, 2013.
+"S-1 1 d564001ds1.htm FORM S-1". United States Securities Exchange Commission. United States Securities Exchange Commission. October 3, 2013. Retrieved October 5, 2013.
+"Amendment 1 to Form S-1 Registration Statement, Twitter, Inc". EDGAR. October 15, 2013. Retrieved November 8, 2013.
+"Twitter Announces It Will List On The NYSE Under TWTR, Twitter, Inc". TechCrunch. October 15, 2013. Retrieved November 8, 2013.
+"Interesting Numbers From Twitter's IPO". ABC News. November 8, 2013. Retrieved November 8, 2013.
+"Twitter prices IPO at $26 per share". Yahoo! Finance. November 6, 2013. Retrieved November 8, 2013.
+"Twitter shares jump 73% in market debut". BBC News. November 7, 2013. Retrieved November 8, 2013.
+Wagner, Kurt (November 8, 2013). "Twitter IPO: Guess Who Just Got Rich". Mashable. Mashable. Retrieved November 8, 2013.
+Rushe, Dominic (February 5, 2014). "Twitter posts revenues of $242m but share price plummets as growth stalls". The Guardian. Retrieved February 7, 2014.
+Koh, Yoree (January 5, 2016). "Twitter to Expand Tweet's 140-Character Limit to 10,000". The Wall Street Journal. Retrieved March 24, 2016.
+Faber, David; Balakrishnan, Anita (September 23, 2016). "Twitter may soon get formal bid, suitors said to include Salesforce and Google". CNBC. NBCUniversal News Group. Retrieved April 23, 2017.
+Vielma, Antonio José (September 26, 2016). "Microsoft seen as possible Twitter suitor: Source". CNBC. NBCUniversal News Group. Retrieved April 23, 2017.
+Rodionova, Zlata (September 27, 2016). "Twitter sale: Disney and Microsoft join Google in list of potential bidders". The Independent. Retrieved April 23, 2017.
+Nusca, Andrew (September 27, 2016). "Will Microsoft Buy Twitter?". Fortune. Retrieved April 23, 2017.
+Lunden, Ingrid; Roof, Katie; Lynley, Matthew; Miller, Ron (September 23, 2016). "Salesforce, Google, Microsoft, Verizon are all eyeing up a Twitter bid". TechCrunch. AOL. Retrieved April 23, 2017.
+Sherman, Alex; Frier, Sarah (September 26, 2016). "Disney Is Working With an Adviser on Potential Twitter Bid". Bloomberg Markets. Bloomberg L.P. Retrieved April 23, 2017.
+Roof, Katie; Panzarino, Matthew (September 26, 2016). "Yep, Disney is in talks with bankers about possible Twitter acquisition". TechCrunch. AOL. Retrieved April 23, 2017.
+"Twitter shares soar almost 20% on takeover talk". BBC News. September 23, 2016. Retrieved April 23, 2017.
+Sherman, Alex; Palmeri, Christopher; Frier, Sarah (October 18, 2016). "Disney Dropped Twitter Pursuit Partly Over Image". Bloomberg Technology. Bloomberg L.P. Retrieved April 23, 2017.
+McCormick, Rich (October 19, 2016). "Twitter's reputation for abuse is turning off potential suitors". The Verge. Vox Media. Retrieved April 23, 2017.
+Price, Rob (October 18, 2016). "Twitter's abuse problem is reportedly part of the reason Disney chose not to buy it". Business Insider. Axel Springer SE. Retrieved April 23, 2017.
+Howard, Anne (June 19, 2017). "Twitter Gets a New Look. Does it get it Right?". RPRN Newsmagazine. RPRN News. Retrieved June 19, 2017.
+Pierce, David (June 15, 2017). "Twitter Redesigned Itself to Make the Tweet Supreme Again". Wired. Retrieved June 19, 2017.
+"So lief die SZ-Recherche". Süddeutsche Zeitung. November 5, 2017.
+Drucker, Jesse (November 5, 2017). "Kremlin Cash Behind Billionaire's Twitter and Facebook Investments". The New York Times. ISSN 0362-4331. Retrieved November 6, 2017.
+Dwoskin, Elizabeth (October 26, 2017). "Twitter bans Russian government-owned news sites RT and Sputnik from buying ads". The Washington Post. Retrieved February 25, 2020.
+"Twitter Bans Ads From Russia Today and the Sputnik Network, Citing Election Meddling". Time. October 27, 2017. Retrieved July 26, 2018.
+"Twitter Bans Political Ads on Its Platform, Pressure Up on Defiant Facebook". News18. Retrieved October 31, 2019.
+Vaughan-Nichols, Steven (August 30, 2012). "How Twitter tweets your tweets with open source". ZDNet. Retrieved September 10, 2012.
+Gomes, Lee (June 22, 2009). "The Pied Piper of Pay". Forbes. Retrieved June 16, 2009.
+King, Ryan (September 25, 2009). "Twitter on Ruby". Retrieved October 31, 2009. "We recently migrated Twitter from a custom Ruby 1.8.6 build to a Ruby Enterprise Edition release candidate, courtesy of Phusion. Our primary motivation was the integration of Brent's MBARI patches, which increase memory stability."
+Krikorian, Raffi (August 13, 2013). "New Tweets per second record, and how!". Retrieved August 21, 2013.
+Payne (January 16, 2008). "Announcing Starling". Twitter. Archived from the original on January 20, 2008. Retrieved January 11, 2009.
+Venners, Bill (April 3, 2009). "Twitter on Scala". Artima Developer. Retrieved June 17, 2009.
+Malik, Om (August 17, 2013). "How Twitter scaled its infrastructure to handle record tweet-per-second days". GIGAOM. GIGAOM. Retrieved August 17, 2013.
+"Twitter API Wiki / FrontPage". Apiwiki.twitter.com. Retrieved September 18, 2010.
+"A Brief History Of Twitter's Many Redesigns". Adweek.com. Retrieved July 17, 2019.
+Calore, Michael (September 16, 2010). "Take a Tour of the New Twitter". Wired. ISSN 1059-1028. Retrieved July 17, 2019.
+Ostrow, Adam. "Here Comes the New Twitter.com". Mashable. Retrieved July 17, 2019.
+Grove, Jennifer Van. "The New Twitter Is an Attack on All Desktop Apps". Mashable. Retrieved July 17, 2019.
+Houston, Thomas (December 8, 2011). "Twitter app and website redesign: hands-on pictures and video". The Verge. Retrieved July 17, 2019.
+"Twitter Arabic, Farsi, Hebrew and Urdu version launch". BBC News. March 7, 2012. Retrieved March 7, 2012.
+"Twitter Now Available in Basque, Czech, Greek". PC Magazine. August 6, 2012. Retrieved August 7, 2012.
+O'Carroll, Lisa (September 18, 2012). "Twitter redesign makes more of photos". The Guardian. ISSN 0261-3077. Retrieved July 17, 2019.
+Popper, Ben (April 8, 2015). "Twitter is killing off its Discover tab". The Verge. Retrieved July 17, 2019.
+Newton, Casey (January 26, 2017). "Twitter replaces the Moments tab with Explore". The Verge. Retrieved July 17, 2019.
+Musil, Steven. "Twitter tests new desktop layouts". CNET. Retrieved July 17, 2019.
+Bright, Peter (September 6, 2018). "Progressive Web Apps moving mainstream as Twitter makes its mobile site the main one". Ars Technica. Retrieved July 17, 2019.
+Gallagher, Sean (July 15, 2019). "Twitter is changing Twitter.com to be more like mobile app". Ars Technica. Retrieved July 17, 2019.
+Lee, Dami (July 15, 2019). "Twitter desktop redesign adopts some of its mobile app's best features". The Verge. Retrieved July 17, 2019.
+Walker, Rob (February 15, 2009). "Consumed  – Fail Whale". The New York Times Magazine. p. 17. Retrieved February 15, 2009.(registration required)
+Whyte, Murray (June 1, 2008). "Tweet, Tweet – There's Been an Earthquake". Toronto Star. Retrieved February 23, 2011.
+"La vera storia della balena di Twitter" [The real story of the Twitter whale]. La Stampa (in Italian). January 24, 2015. Retrieved August 30, 2019.
+Simmons, Jen [@jensimmons] (September 2, 2007). "Oh, fail whale, you are making my website fail. No more wordpress-twitter-crossposting" (Tweet) – via Twitter.
+"Killing the Fail Whale With Twitter's Christopher Fry". Wired. November 25, 2013. Retrieved May 4, 2018.
+"Twitter Growing Pains Cause Lots of Downtime in 2007". Royal Pingdom (blog of Pingdom). December 19, 2007. Retrieved February 23, 2011.
+Dorsey, Jack (January 15, 2008). "MacWorld". Twitter Blog (blog of Twitter). Retrieved February 23, 2011.
+Kuramoto, Jake (January 15, 2008). "MacWorld Brings Twitter to its Knees". Oracle AppsLab. Retrieved May 7, 2008.
+Rushe, Dominic (January 8, 2011). "Icelandic MP Fights US Demand for Her Twitter Account Details". The Guardian. London. Retrieved January 10, 2011.
+"How to Hide Your Followers & Who You Are Following on Twitter | The Classroom | Synonym". Classroom.synonym.com. November 9, 2015. Retrieved December 7, 2015.
+"Twitter Privacy Policy". Twitter. May 14, 2007. Retrieved March 11, 2009.
+Hansell, Saul (July 16, 2009). "Advertisers Are Watching Your Every Tweet". The New York Times. Retrieved July 17, 2009.
+Gilbertson, Scott (June 11, 2007). "Twitter Vulnerability: Spoof Caller ID To Take Over Any Account". Wired. Retrieved February 5, 2011.
+Leyden, John (March 6, 2009). "Twitter SMS Spoofing Still Undead". The Register. Retrieved June 17, 2009.
+Stone, Biz (January 5, 2009). "Monday Morning Madness". Retrieved June 17, 2009.
+Jenna Wortham (January 5, 2009). "Twitter-Savvy Hackers Tweak the Twitterati". New York Times.
+McCarthy, Caroline (June 12, 2009). "Twitter Power Players Get Shiny 'Verified' Badges". CNET. CBS Interactive. Retrieved February 23, 2011.
+Ostrow, Adam (May 10, 2010). "Twitter Bug Lets You Control Who Follows You". Mashable. Retrieved May 11, 2010.
+Gonsalves, Antone (June 25, 2010). "Twitter, Feds Settle Security Charges – Twitter Must Establish and Maintain a 'Comprehensive Information Security Program' and Allow Third-Party Review of the Program Biannually for the 10 Years". InformationWeek. Retrieved February 23, 2011.
+"Twitter Subpoena" (PDF). Salon.com. Retrieved January 10, 2011.
+Fildes, Jonathan (September 21, 2010). "Twitter Scrambles To Block Worms". BBC News. Retrieved February 23, 2011.
+Schroeder, Stan (September 22, 2010). "17-Year-Old Australian Boy, Japanese Developer Take Blame for Twitter Meltdown". Mashable. Retrieved February 23, 2011.
+"Twitter Status – XSS Attack Identified and Patched". status.twitter.com. Archived from the original on September 23, 2010. Retrieved September 21, 2010.
+"Kiwi Link To Twitter 'Mouseover' Chaos". The New Zealand Herald. September 22, 2010. Retrieved February 23, 2011.
+"Twitter Inc., Unknown Posters Sued by Athlete Known as 'CTB' at U.K. Court" bloomberg.com May 20, 2011
+"Twitter users served with privacy injunction". Politics.co.uk. Retrieved May 22, 2011.
+"Twitter's European boss Tony Wang gives legal warning". BBC News. UK. May 25, 2011. Retrieved May 25, 2011.
+Smith, Lewis (May 26, 2011). "Twitter chief hints he may have to divulge users' names". The Independent. UK. Retrieved December 13, 2011.
+"Twitter Buys Dasient Security Startup To Combat Spam". The Huffington Post. January 24, 2012.
+"Twitter to selectively 'censor' tweets by country". BBC News. January 27, 2012.
+"Twitter Blog – Tweets still must flow" January 26, 2012. Retrieved January 27, 2012.
+Kulish, Nicholas (October 18, 2012). "Twitter Blocks Germans' Access to Neo-Nazi Group". The New York Times. Retrieved May 5, 2017.
+"Twitter removes French anti-Semitic tweets". BBC News. BBC. October 19, 2012. Retrieved May 5, 2017.
+"CrypTweet encrypts Twitter direct messages – CSO | The Resource for Data Security Executives". CSO. February 21, 2012. Retrieved July 23, 2012.
+"CrypTweet: Experimental Twitter Encryption". Plexusproject.org. Archived from the original on July 20, 2012. Retrieved July 23, 2012.
+Bilton, Nick (May 17, 2012). "Twitter Implements Do Not Track Privacy Option". The New York Times. Retrieved May 26, 2012.
+Rory Carroll in Los Angeles (August 9, 2012). "Fake Twitter accounts may be driving up Mitt Romney's follower number | World news | guardian.co.uk". Guardian. London. Retrieved August 16, 2012.
+SAMUELSOHN, DARREN (June 11, 2014). "Pols have a #fakefollower problem". POLITICO. Retrieved June 16, 2014.
+Lotan, Gilad (May 31, 2014). "Op-Ed Mining Twitter gold, at five bucks a pop". Los Angeles Times. Retrieved June 16, 2014.
+WOOLLACOTT, Emma. "Why fake Twitter accounts are a political problem". New Statesman. Retrieved June 16, 2014.
+"Twitter Warns news Organisations Amid Syrian Hacking Attacks". Descrier. April 30, 2013. Retrieved April 30, 2013.
+Rodriguez, Salvador (May 23, 2013). "Twitter adds two-step verification option to help fend off hackers". latimes.com. Retrieved June 10, 2013.
+"Twitter's Tony Wang issues apology to abuse victims", BBC News, August 3, 2013. Retrieved August 3, 2013.
+"Of Pride, Prejudice and Harassment on Twitter" The New York Times, August 3, 2013. Retrieved August 3, 2013.
+"Twitter updates its rules for users, after uproar over rape, bomb threats", CNET, August 3, 2013. Retrieved August 3, 2013.
+"Twitter Is Trying to Block Images of James Foley's Death". Yahoo! Tech. August 20, 2014. Retrieved September 6, 2014.
+"Twitter policy on media concerning a deceased user" Nu Wexler on Twitter, August 19, 2014.
+"Twitter announces sweeping update to reporting, blocking tools". Ars Technica. December 2, 2014.
+"Building a safer Twitter". blog.twitter.com. Retrieved July 30, 2019.
+"Twitter unveils new tools to fight harassment". CBS News.
+"Twitter Gives Harassed Users a Little Ammo | Social Networking | TechNewsWorld". www.technewsworld.com. Retrieved July 30, 2019.
+Saleem, Fahad. "Twitter Inc (TWTR) Could Use Gamergate Autoblocker Model To Block Millions of Fake Accounts?". TechInsider.
+"Blocked on Twitter: Software's limits in the fight against online hate". The Globe and Mail. Toronto. December 4, 2014.
+Wofford, Taylor (November 29, 2014). "One Woman's New Tool to Stop Gamergate Harassment on Twitter". Newsweek. Retrieved December 6, 2014.
+Tiku, Nitasha (February 5, 2015). "Twitter CEO: 'We suck at dealing with abuse'". The Verge. Retrieved February 5, 2015.
+"Ireland to become privacy regulator for 300m Twitter users". Irish Times. Retrieved May 12, 2015.
+Twitter's corporate blog, "Announcing the Twitter Trust & Safety Council"
+"Twitter Compromised! Change Your Password Right Now". Yeah Hub. May 5, 2018.
+"A bug impacting collection and sharing of location data on iOS devices". Twitter. Retrieved May 19, 2019.
+Lakshmanan, Ravie (May 14, 2019). "Twitter bug accidentally shared location data of some iOS users". The Next Web. Retrieved May 19, 2019.
+Perez, Sarah (May 13, 2019). "Twitter bug disclosed some users' location data to an unnamed partner". TechCrunch. Retrieved May 19, 2019.
+Spangler, Todd (December 20, 2019). "Twitter Fixes Bug in Android App That Could Let Hackers Hijack User Accounts". Variety. Retrieved December 21, 2019.
+"Twitter discloses Android app flaw that could allow account takeovers". iTnews. Retrieved December 21, 2019.
+"Experts Say There's 'No Evidence' for Bernie's Russian Bot Claim". The Daily Beast. February 21, 2020.
+"Twitter knocks down Bernie Sanders' suggestion that Russian trolls are behind online attacks from his supporters". CNBC. February 20, 2020.
+Kastrenakes, Jacob (April 8, 2020). "Twitter notifies users that it's now sharing more data with advertisers". The Verge. Retrieved April 9, 2020.
+"Revived lawsuit says Twitter DMs are like handing ISIS a satellite phone". The Verge. August 30, 2016. Retrieved August 31, 2016.
+"Lawsuit Blames Twitter for ISIS Terrorist Attack". Wall Street Journal. Retrieved January 16, 2016.
+"Can Twitter Be Liable for ISIS Tweets?". Wall Street Journal. Retrieved January 20, 2016.
+"Twitter is not legally responsible for the rise of ISIS, rules California district court". The Verge. Vox Media. August 10, 2016. Retrieved August 11, 2016.
+"Twitter Suspends Russian Satirical Accounts, Raising Free Speech Questions | News". The Moscow Times. Retrieved June 2, 2016.
+Times, The Moscow; network, part of the New East (June 2, 2016). "Twitter unblocks spoof Putin account after widespread criticism". The Guardian. Retrieved June 2, 2016.
+Hern, Alex (May 31, 2016). "Facebook, YouTube, Twitter and Microsoft sign EU hate speech code". The Guardian. Retrieved June 7, 2016.
+Weise, Elizabeth (August 18, 2016). "Twitter suspends 235,000 accounts for extremism". USA Today. Retrieved November 20, 2016.
+"Twitter suspended over 1.6 lakh terror-promoting accounts in six months". Economic Times. May 10, 2019. Retrieved May 10, 2019.
+Holt, Kris (May 10, 2019). "Twitter suspensions for promoting terrorism drop yet again". Engadget. Retrieved May 10, 2019.
+Abril, Danielle (May 10, 2019). "Twitter's User-Reported Violations Jumped 19%—but the Number of Accounts Punished Dropped". Fortune.
+"Twitter reports fall in extreme content". SBS News. May 10, 2019. Retrieved May 10, 2019.
+"TWITTER HAS SUSPENDED MORE THAN 166,000 ACCOUNTS RELATED TO PROMOTION OF TERRORISM". Tech2. Firstpost. May 10, 2019. Retrieved May 10, 2019.
+Collins, Ben; Zadrozny, Brandy (July 21, 2020). "Twitter bans 7,000 QAnon accounts, limits 150,000 others as part of broad crackdown". NBC News. Retrieved July 21, 2020.
+Bell, Karissa (July 28, 2020). "Twitter will block links promoting hate speech and violence". Engadget. Retrieved July 28, 2020.
+Timberg, Craig; Romm, Tony (July 25, 2019). "It's not just the Russians anymore as Iranians and others turn up disinformation efforts ahead of 2020 vote". The Washington Post.
+"Twitter to add labels to U.S. political candidates". CBS. May 23, 2018. Retrieved May 23, 2018.
+Scola, Nancy (May 23, 2018). "Twitter to verify election candidates in the midterms". Politico. Retrieved May 23, 2018.
+"Twitter and Facebook remove accounts in interference crackdown". York Press. Retrieved December 20, 2019.
+D'onfro, Jillian. "Twitter Admits 5% Of Its 'Users' Are Fake". Business Insider. Retrieved May 15, 2014.
+Dubbin, Rob. "The Rise Of Twitter Bots". The New Yorker. Retrieved May 15, 2014.
+Bilton, Nick. "Friends, and Influence, for Sale Online". The New York Times. Retrieved May 15, 2014.
+Urbina, Ian (August 10, 2013). "I Flirt and Tweet. Follow Me at #Socialbot". The New York Times. Retrieved May 15, 2014.
+Edwards, Chad (2014). "Is that a bot running the social media feed? Testing the differences in perceptions of communication quality for a human agent and a bot agent on Twitter". Computers in Human Behavior. 33: 372–376. doi:10.1016/j.chb.2013.08.013.
+Miners, Zach (May 6, 2014). "Bot or Not? Researchers make an app to sniff out bots on Twitter". PC World. Retrieved May 15, 2014.
+Depillis, Lydia. "Swenzy'". Archived from the original on May 23, 2014. Retrieved May 15, 2014.
+Depillis, Lydia (January 6, 2014). "Click farms are the new sweatshops". The Washington Post. Retrieved May 15, 2014.
+Martin, Michel. "How To Spot And Outfake Bogus Twitter Followers". NPR. Retrieved May 15, 2014.
+Van Dijck, Jose (2013). The Culture of Connectivity: A Critical History of Social Media. Oxford University Press. ISBN 9780199970780.
+Urbina, Ian (August 10, 2013). "I Flirt and Tweet. Follow Me at #Socialbot". The New York Times. Retrieved May 15, 2014.
+"Top 10 Web APIs – Bridging Today's Technology". WebDAM. January 11, 2012. Retrieved December 18, 2016.
+"Introducing the Twitter API | Twitter Blogs". blog.twitter.com. Retrieved December 18, 2016.
+"Ruby on Rails Tutorial (Rails 5)". Softcover.io. Retrieved December 18, 2016.
+"Twitter's 10 Year Struggle with Developer Relations | Nordic APIs |". Nordic APIs. March 23, 2016. Retrieved December 18, 2016.
+Parr, Ben. "Twitter Launches Countdown to OAuthcalypse". Mashable. Retrieved December 18, 2016.
+"Twitter to launch URL shortener and may block TinyURL and bit.ly". ComputerWeekly. Retrieved December 18, 2016.
+Streams, Kimber (November 11, 2012). "Tweetro says it's 'completely crippled' by Twitter's strict 100,000 user token limit". The Verge. Retrieved December 18, 2016.
+Ha, Anthony. "Twitter Handcuffs Client Apps With New API Changes". TechCrunch. Retrieved December 18, 2016.
+"Twitter's Boston Acquisitions: Crashlytics Tops $100M, Bluefin Labs Close Behind | Xconomy". Xconomy. February 5, 2013. Retrieved December 18, 2016.
+Olanoff, Drew. "Twitter Acquires Mobile Crash-Reporting Tool Crashlytics, Development Of The Product Will Continue "Unabated"". TechCrunch. Retrieved December 18, 2016.
+Honan, Mat. "Twitter's Audacious Plan to Infiltrate All Your Apps". WIRED. Retrieved December 18, 2016.
+"Milestone Achieved: Over 1 Billion Devices!". Fabric Blog. Retrieved December 18, 2016.
+Lew, Jason (December 15, 2016). "The State of Mobile SDKs in 2016". MightySignal Mobile Trends. Retrieved December 18, 2016.
+"Fabric lands top spots for app analytics, stability, and monetization". Fabric Blog. Retrieved December 18, 2016.
+O'Brien, Terrence (April 17, 2012). "Twitter introduces Innovators Patent Agreement, vows to not abuse patent system". Engadget. AOL. Retrieved August 11, 2012.
+"Twitter / OpenSource". Twitter.com. Archived from the original on April 15, 2013. Retrieved April 18, 2013.
+"Open Source Thanks". Twitter. Archived from the original on April 15, 2013. Retrieved April 18, 2013.
+"Open Source". Twitter. Retrieved January 4, 2017.
+"Search: Stars>1". Github. Retrieved January 4, 2017.
+Jack Dorsey (July 8, 2011). Impressions on the White House Twitter Townhall. The White House. Retrieved July 10, 2011.
+"Could Tunisia Be The Next Twitter Revolution?". The Atlantic. January 13, 2011. Retrieved November 20, 2016.
+Buettner, Ricardo & Buettner, Katharina (2016). A Systematic Literature Review of Twitter Research from a Socio-Political Revolution Perspective. 49th Annual Hawaii International Conference on System Sciences. Kauai, Hawaii: IEEE. doi:10.13140/RG.2.1.4239.9442.
+Santana, Rebecca (June 15, 2009). "Iran Election, Uprising Tracked On Twitter As Government Censors Media". HuffPost. AOL. Archived from the original on June 18, 2009. Retrieved May 5, 2017.
+Siddique, Haroon (November 12, 2010). "#IAmSpartacus campaign explodes on Twitter in support of airport joker". The Guardian. Retrieved November 20, 2016.
+Gabbatt, Adam; Taylor, Matthew (May 22, 2011). "Scottish newspaper identifies injunction footballer". The Guardian. Retrieved May 22, 2011.
+"Twitter's influence on the Arab Spring". The Globe and Mail. August 19, 2011. Retrieved November 20, 2016.
+Fox, Zoe (June 8, 2012). "How the Arab World Uses Facebook and Twitter". Mashable. Retrieved November 20, 2016.
+"GCHQ leak lists UK cyber-spies' hacking tools". BBC News. July 15, 2014. Retrieved July 16, 2014.
+"JTRIG Tools and Techniques". Retrieved July 16, 2014.
+Kelly, Makena (August 19, 2019). "Facebook and Twitter uncover Chinese trolls spreading doubts about Hong Kong protests". The Verge. Retrieved August 28, 2019.
+Inocencio, Ramy (August 20, 2019). "Hong Kong protests: Twitter and Facebook crack down on "deceptive" accounts linked to China". CBS News. Retrieved August 28, 2019.
+Twitter Safety. "Information operations directed at Hong Kong". Twitter Blog. Retrieved August 28, 2019.
+"China cries foul over Facebook, Twitter block of fake accounts". Reuters. August 20, 2019. Retrieved August 28, 2019.
+"China Resists Charge by Twitter, Facebook of Disinformation Effort". The Wall Street Journal. August 20, 2019. Retrieved August 28, 2019.
+"Ankara reacts to Twitter's move to suspend accounts". hurriyetdailynews. June 13, 2020.
+"Religion, Twitter and freedom: A peaceful explosion", The Economist, May 27, 2015. Retrieved June 2, 2015.
+Branigan, Tania. "China blocks Twitter, Flickr, YouTube and Hotmail ahead of Tiananmen anniversary". The Guardian. London.
+Laya, Patricia (February 15, 2014). "Venezuelans Blocked on Twitter as Opposition Protests Mount". Bloomberg.com.
+"Challenging the access ban in Turkey". twitter.com.
+"Iraq Crisis: Twitter, Google, YouTube and Facebook Blocked by Government to Stop Isis Plotting". International Business Times UK. June 13, 2014.
+BBC Monitoring (February 26, 2018). "Turkmenistan country profile". BBC News.
+Michael Schaeffer Omer-Man (August 9, 2016). "How Israel is trying to enforce gag orders beyond its borders". 972 Mag. Retrieved September 23, 2016.
+"Turkey top country seeking removal of content on Twitter: Report". hurriyet. September 20, 2017. Retrieved September 20, 2017.
+"Turkey had highest request for content removal on Twitter". IPA News. May 11, 2019.
+"United States Senate Committee on the Judiciary, Subcommittee on Crime and Terrorism: Testimony of Sean J. Edgett, Acting General Counsel, Twitter Inc" (PDF). October 31, 2017. Retrieved November 6, 2017.
+"Govt tells Twitter to block accounts inciting anti-India content using Kashmir". Hindustan Times. August 12, 2019.
+Arthur, Charles (December 9, 2010). "Wikileaks: Twitter explains why it's not trending, as hackers play cat and mouse". The Guardian. London. Retrieved November 29, 2011.
+"Reply to question from journalist about alleged censorship of #occupywallstreet" Twitter, September 26, 2011. Retrieved November 29, 2011.
+Larson, Dave (August 1, 2011). "Twitter admits editing offensive Trending Topics, plans more". Archived from the original on December 11, 2011. Retrieved November 29, 2011.
+Siegfried, Evan (August 23, 2016). GOP GPS. Skyhorse. ISBN 9781510717336. Retrieved November 12, 2017.
+Albright, Dann (February 29, 2016). "Is Twitter's Trust & Safety Council a Front for Censorship?". Makeuseof. Retrieved November 12, 2017.
+Puddephatt, Andrew (February 11, 2016). "Just Another 'Black Box'? First Thoughts on Twitter's Trust And Safety Council". CircleID. Retrieved November 12, 2017.
+Soave, Robby (February 20, 2016). "Did Twitter's Orwellian 'Trust and Safety' Council Get Robert Stacy McCain Banned?". Reason.com. Retrieved November 12, 2017.
+Lavallee, Andrew (March 16, 2007). "Friends Swap Twitters, and Frustration – New Real-Time Messaging Services Overwhelm Some Users with Mundane Updates from Friends". The Wall Street Journal. Archived from the original on March 14, 2015. Retrieved February 22, 2011.
+Dvorak, John C. (August 25, 2009). "Twitter Is the New CB Radio". PC Magazine.
+Mills, Alexander; Chen, Rui; Lee, JinKyu; Rao, H. Raghav (2009). "Web 2.0 Emergency Applications: How Useful Can Twitter Be for Emergency Response?" (PDF). Twitter for Emergency Management and Mitigation: 3. Retrieved November 20, 2016.
+Jarvis, Brooke (March 4, 2013). "Twitter becomes a tool for tracking flu epidemics and other public health issues". The Washington Post. Retrieved November 21, 2016.
+Power, Robert; Robinson, Bella; Ratcliffe, David (2013). "Finding Fires with Twitter" (PDF). Proceedings of Australasian Language Technology Association Workshop. Retrieved November 21, 2016.
+Earle, Paul; Bowden, Daniel; Guy, Michelle (2011). "Twitter earthquake detection: earthquake monitoring in a social world". Annals of Geophysics. 54 (6). Retrieved November 21, 2016.
+Grandjean, Martin (2016). "A social network analysis of Twitter: Mapping the digital humanities community". Cogent Arts & Humanities. 3 (1): 1171458. doi:10.1080/23311983.2016.1171458.
+Rankin, M. (2010). "Some general comments on the 'Twitter Experiment'"
+Grosseck & Holotescu (2008). "Can we use Twitter for educational activities?" Archived May 18, 2012, at the Wayback Machine Proceedings of the 4th International Scientific Conference: eLearning and Software forEducation, Bucharest, Romania.
+Elavsky, CM, Mislan, C & Elavsky, S (2011). When talking less is more: exploring outcomes of Twitter usage in the large‐lecture hall. Learning, Media and Technology Volume 36, Issue 3.
+Junco, R., Heiberger, G., & Loken, E. (2011). "The effect of Twitter on college student engagement and grades". Journal of Computer Assisted Learning, 27(2), 119–132. Archived May 8, 2012, at the Wayback Machine
+Junco, R., Elavsky, C. M., Heiberger, G. (2012). "Putting Twitter to the test: assessing outcomes for student collaboration, engagement, and success". British Journal of Educational Technology. doi:10.1111/j.1467-8535.2012.01284.x Archived January 20, 2013, at the Wayback Machine
+Ebner, Lienhardt, Rohs, & Meyer (2010). "Microblogs in Higher Education – A chance to facilitate informal and process-oriented learning?" Archived June 26, 2011, at the Wayback Machine Computers & Education, 55, 92–100.
+Carrie, Ross; Maninger, Robert; LaPrairie, Kimberly; Sullivan, Sam (Spring 2015). "The Use of Twitter in the Creation of Educational Professional Learning Opportunities". Administrative Issues Journal: Connecting Education, Practice, and Research. 5: 55–76. doi:10.5929/2015.5.1.7. ISSN 2153-7615. ERIC EJ1062476.
+Greenhow, Christine; Gleason, Benjamin (October 3, 2012). "Twitteracy: Tweeting as a New Literacy Practice". The Educational Forum. 76 (4): 464–478. doi:10.1080/00131725.2012.709032.
+(registration required) Pontin, Jason (April 22, 2007). "From Many Tweets, One Loud Voice on the Internet". The New York Times. Retrieved June 21, 2009.
+(registration required) Thompson, Clive (September 5, 2009). "I'm So Totally, Digitally Close to You". The New York Times Magazine. Retrieved August 22, 2009.
+"St. Petersburg Times – Google News Archive Search". St. Petersburg Times. Retrieved October 7, 2014.
+Lewis, Nick (April 6, 2009). "Tweet this: It's the year of the Twitter". The Vancouver Sun. Postmedia Network. Archived from the original on April 15, 2009. Retrieved May 5, 2017.
+(registration required) Cohen, Noam (June 20, 2009). "Twitter on the Barricades: Six Lessons Learned". The New York Times. Retrieved June 21, 2009.
+Auer, Matthew (2011). "The Policy Sciences of Social Media". Policy Studies Journal. 39 (4): 709–736. doi:10.1111/j.1541-0072.2011.00428.x.
+https://www.thefader.com/2015/06/08/mira-gonzalez-tao-lin-twitter-interview-with-juliet-escoria
+Kurutz, Steven (December 1, 2009). "Rick Moody's Twitter Short Story Draws Long List of Complaints". Wall Street Journal. Retrieved May 19, 2012.
+Goldsmith, Belinda (April 29, 2009). "Many Twitters Are Quick Quitters: Study". Reuters. Retrieved February 22, 2011.
+"13th Annual Webby Special Achievement Award Winners". The Webby Awards. Archived from the original on February 20, 2011. Retrieved February 22, 2011.
+Paul, Ian (May 5, 2009). "Jimmy Fallon Wins Top Webby: And the Winners Are..." PC World. Retrieved February 22, 2011.
+Carvin, Andy (February 28, 2009). "Welcome to the Twitterverse". National Public Radio. Retrieved February 22, 2011.
+"Top Word of 2009: Twitter". Languagemonitor.com. November 29, 2009. Retrieved July 28, 2014.
+Vidyarthi, Neil (April 30, 2010). "Time Magazine's Social Influence Index Led by Obama, Gaga, Kutcher". socialtimes.com. Retrieved February 22, 2011.
+The Hill on February 28, 2011 described Twitter and other social media as a "strategic weapon ... which have the apparent ability to re-align the social order in real time, with little or no advanced [sic] warning".
+Arce, Alberto; Butler, Desmond; Gillum, Jack. "U.S. secretly created 'Cuban Twitter' to stir unrest". The Washington Post. Nash Holdings. Archived from the original on April 3, 2014. Retrieved May 5, 2017.
+Friar, Karen (July 28, 2012). "Sir Tim Berners-Lee stars in Olympics opening ceremony". ZDNet. Retrieved July 28, 2012.
+Berners-Lee, Tim (July 27, 2012). "This is for everyone". Twitter. Retrieved July 28, 2012.
+Ländler, Mark (February 4, 2014). "In the Scripted World of Diplomacy, a Burst of Tweets". International New York Times. Retrieved April 28, 2014.
+Cellan-Jones, Rory (October 24, 2014). "Queen's first tweet". BBC News.
+"Twiplomacy Study 2013 – International Organisations". Twiplomacy.com. Retrieved April 27, 2014.
+John Heilprin Leaders all a twitter but few do own tweets The Advertiser July 28, 2012 Pg 64
+Conger, Kate; Alba, Davey (May 26, 2020). "Twitter Refutes Inaccuracies in Trump's Tweets for First Time". The New York Times. Retrieved May 27, 2020.
+Watt, Anneliese; Carvill, Caroline; House, Richard; Livingston, Jessica; Williams, Julia M. (2017). "Trump typhoon: A rhetorical analysis of the Donald's Twitter feed". Trump typhoon: A rhetorical analysis of the Donald's Twitter feed - IEEE Conference Publication. pp. 1–7. doi:10.1109/IPCC.2017.8013976. ISBN 978-1-5090-3042-2.
+"mcconnell_thesis_final.pdf" (PDF). Dropbox. Retrieved April 23, 2018.
+"A List of Cardinals on Twitter (October 2015)". sixfortyone.co.uk. Archived from the original on January 19, 2016. Retrieved October 12, 2015.
+Newcomb, Alyssa (March 6, 2013). "Tweeting Cardinals Share Pre-Conclave Thoughts". ABC News. Retrieved September 24, 2013.
+Sharkey, Linda (May 23, 2014). "The reason why the Pope has a Twitter and not a Facebook account". The Independent. Retrieved April 11, 2016.
+Banks, Martin (July 2, 2015). "Social media platforms have 'crucial role to play in combating extremist rhetoric'". EU Reporter. Retrieved January 21, 2018.
+"What Shows Are Viewers Tweeting About and What Does this Mean for Operators?". Tvgenius.net. March 31, 2011. Archived from the original on April 11, 2011. Retrieved May 22, 2011.
+Hayat, Tsahi; Samuel-Azran, Tal (2017). ""You too, Second Screeners?" Second Screeners' Echo Chambers During the 2016 U.S. Elections Primaries". Journal of Broadcasting & Electronic Media. 61 (2): 291–308. doi:10.1080/08838151.2017.1309417.
+"Social Web Makes TV Viewers 'Chatterboxers'", Sky News, March 15, 2012 Archived March 17, 2012, at the Wayback Machine
+"Twitter Blog: Super Data". Blog.twitter.com. February 10, 2010. Retrieved May 22, 2011.
+"Does Twitter Drive TV Ratings?". Tvgenius.net. Archived from the original on November 1, 2011. Retrieved November 14, 2011.
+"France bans Facebook and Twitter promotion on TV". FRANCE 24. June 6, 2011. Retrieved November 14, 2011.
+Shontell, Alyson (February 4, 2013). "Twitter Makes Big Acquisition, Buys Social TV Analytics Company Bluefin Labs". Business Insider. Retrieved February 6, 2013.
+Geron, Tomio (February 6, 2013). "Twitter Confirms Bluefin Labs Acquisition For Social TV". Forbes. Retrieved February 6, 2013.
+"Twitter Has Become the New TV Guide – Now Can It Offer New TV Rating?". Advertising Age. Crain. October 23, 2012. Retrieved February 6, 2013.
+Stelter, Brian (February 5, 2013). "Twitter Buys Company That Mines Chatter About TV". The New York Times. Retrieved February 6, 2013.
+Talbot, David (February 5, 2013). "Buying Bluefin Will Give Twitter a Piece of TV's $72 Billion Ad Market". MIT Technology Review. Retrieved February 6, 2013.
+Indvik, Lauren (May 23, 2013). "Twitter Amplify Will Bring Sponsored Video Clips to Your Feed". Mashable. Retrieved May 25, 2014.
+Lunden, Ingrid (May 23, 2013). "Twitter Launches TV Ad Targeting, Twitter Amplify For Real-Time Videos In Stream". TechCrunch. Retrieved May 25, 2014.
+"'See It' Button Should Be the Game-Changer Pay TV Desperately Needs". Variety. November 24, 2013. Retrieved May 12, 2017.
+Constine, Josh (May 21, 2014). "Facebook Adds Shazam-Style Audio Recognition To Help You Automatically Tag Posts With TV Shows And Songs". TechCrunch. Retrieved May 26, 2014.
+Protalinski, Emil (January 30, 2014). "Facebook opens up its social TV data for the first time in partnership with UK analytics firm SecondSync". The Next Web. Retrieved June 1, 2014.
+Hern, Alex (April 1, 2014). "Twitter buys UK 'social TV' firm SecondSync". The Guardian. Retrieved June 1, 2014.
+Wasserman, Todd (February 27, 2014). "Twitter Snags the Last of the Major Networks, ABC, for Amplify". Mashable. Retrieved May 25, 2014.
+Plunkett, John (March 31, 2014). "ITV commercial boss warns brands that 90% of content is 'crap'". The Guardian. London. Retrieved April 12, 2014.
+Summers, Nick (March 20, 2014). "Twitter is testing one-tap video playback across its mobile apps for Amplify partner clips". The Next Web. Retrieved May 26, 2014.
+Bradwell, Jason (July 2, 2014). "Why Did Twitter Buy SnappyTV? Grabyo Reaction". VOD Professional. Archived from the original on August 28, 2014. Retrieved August 28, 2014.
+Sawyers, Paul (June 10, 2014). "Wimbledon 'near-live' highlights will be broadcast globally across Facebook, Twitter, Google+ and YouTube". TNW. Retrieved June 12, 2014.
+Lunden, Ingrid. "Twitter confirms it is winding down SnappyTV, shifting features to Media Studio". TechCrunch. Retrieved July 25, 2017.
+"Twitter: Most Followers". Friend or Follow. Retrieved May 19, 2019.
+"Search by Twitter bio, name, URL, location, more". Followerwonk. Retrieved May 9, 2013.
+"Selfie at Oscars breaks retweet record". BBC News. March 3, 2014. Retrieved March 3, 2014.
+DeGeneres, Ellen (March 2, 2014). "If only Bradley's arm was longer. Best photo ever. #oscars". Twitter. Retrieved March 3, 2014.
+BBC Trending (March 3, 2014). "#BBCtrending: Selfie at Oscars breaks retweet record". BBC News. Bbc.com. Retrieved July 28, 2014.
+"Ellen DeGeneres' Selfie at Oscars Sets Retweet Record, Crashes Twitter". The Ledger. Associated Press. March 3, 2014.
+Hubbard, Amy (March 2, 2014). "Oscars 2014, the year of the selfie: Ellen tweet grabs retweet record". latimes.com. Retrieved October 7, 2014.
+"Ellen DeGeneres' Famous Oscar Selfie Gets The Simpsons and Lego Treatment—Take a Look!". Eonline.com. March 4, 2014. Retrieved July 28, 2014.
+"Grumpy Cat, Legos Parody Ellen's Oscars Selfie". Abcnews.go.com. March 5, 2014. Retrieved July 28, 2014.
+"Barack Obama victory tweet most retweeted ever". BBC News. November 7, 2012. Retrieved November 8, 2013.
+"Four more years" Barack Obama on Twitter, November 6, 2012.
+"@Twitter". Twitter. Retrieved May 9, 2017.
+"Fastest time to reach one million followers on Twitter". Guinness World Records. April 12, 2014. Retrieved May 19, 2015.
+Oremus, Will (August 19, 2013). "Balse Festival: Japan "Castle in the Sky" airing breaks Twitter record for tweets per second". Slate. Retrieved June 26, 2014.
+Ashcraft, Brian. "How an Old Japanese Anime Broke a Twitter Record". Kotaku. Retrieved August 31, 2018.
+"Fans in the Philippines & around the world sent 41M Tweets mentioning #ALDubEBTamangPanahon". Twitter Data Verified Account. October 27, 2015. Retrieved October 30, 2015.
+Mendoza, Arvin (October 25, 2015). "'AlDub' breaks FIFA World Cup's Twitter record". Philippine Daily Inquirer. Retrieved October 25, 2015.
+Tomchak, Anne-Marie (July 9, 2014). "#BBCtrending: Brazil's World Cup thrashing breaks Twitter records". BBC Online. Retrieved July 9, 2014.
+
+    Isaac, Mike; Ember, Sydney (November 8, 2016). "For Election Day Influence, Twitter Ruled Social Media". The New York Times. Retrieved November 20, 2016.
+
+Further reading
+
+    Fitton, Laura; Gruen, Michael E.; Poston, Leslie; foreword by Jack Dorsey (2009). Twitter for Dummies. Hoboken, NJ: Wiley Publishing. ISBN 9780470479919.
+    Tufekci, Zeynep. 2017. Twitter and Tear Gas: The Power and Fragility of Networked Protest. Yale University Press.
+
+External links
+Twitter
+at Wikipedia's sister projects
+
+    Definitions from Wiktionary
+    Media from Wikimedia Commons
+    News from Wikinews
+    Data from Wikidata 
+
+	Scholia has a topic profile for Twitter.
+
+    Official website (Mobile)
+    Business data for Twitter, Inc.:
+        Google FinanceYahoo! FinanceBloombergSEC filings
+
+    vte
+
+Twitter
+Clients	
+
+    Favstar Gnip Hootsuite Seesmic SimplyTweet Tween Tweetbot TweetDeck Tweetie Twimight TwitPic Twitterrific
+
+Executives	
+
+    Jack Dorsey (CEO) Anthony Noto (COO + CFO)
+
+Board	
+
+    Omid Kordestani (Executive Chairman) Jack Dorsey (CEO) Peter Chernin Peter Currie Peter Fenton Evan Williams Marjorie Scardino
+
+Software	
+
+    FlockDB Periscope Starling Vine
+
+Mergers and
+acquisitions	
+
+    BackType Bluefin Labs Dasient Gnip Mitro Namo Media Posterous Summify Trendrr TweetDeck Tweetie Vine Whisper Systems
+
+Lists	
+
+    Most-followed accounts Most-retweeted tweets Most-liked tweets Most-viewed videos in the first 24 hours
+
+Culture	
+
+    Black Twitter Hashtag Milkshake Duck Meltdown May Stan Twitter Twitterature Twitter diplomacy Twitter thread Twitter trends URL shorteners Weird Twitter
+
+Other	
+
+    Censorship Republik Twitter Suspensions and bans Shorty Awards Twitter bomb Twitter usage
+        by public figures Topsy Labs 2020 bitcoin scam
+
+Links to related articles
+Authority control Edit this at Wikidata	
+
+    GND: 7660487-1 LCCN: n2009031956 VIAF: 176777970 WorldCat Identities (via VIAF): 176777970
+
+Categories:
+
+    Twitter2006 establishments in California2006 in San Francisco2013 initial public offeringsAmerican social networking websitesAndroid (operating system) softwareCompanies based in San FranciscoCompanies listed on the New York Stock ExchangeFirefox OS softwareInternet properties established in 2006IOS softwareMacOS softwareMicrobloggingMultilingual websitesProprietary cross-platform softwareReal-time webSocial media companies of the United StatesSouth of Market, San FranciscoText messagingUniversal Windows Platform appsWatchOS software
+
+Navigation menu
+
+    Not logged in
+    Talk
+    Contributions
+    Create account
+    Log in
+
+    Article
+    Talk
+
+    Read
+    View source
+    View history
+
+Search
+
+    Main page
+    Contents
+    Current events
+    Random article
+    About Wikipedia
+    Contact us
+    Donate
+
+Contribute
+
+    Help
+    Community portal
+    Recent changes
+    Upload file
+
+Tools
+
+    What links here
+    Related changes
+    Special pages
+    Permanent link
+    Page information
+    Cite this page
+    Wikidata item
+
+Print/export
+
+    Download as PDF
+    Printable version
+
+In other projects
+
+    Wikimedia Commons
+    Wikibooks
+    Wikinews
+    Wikiquote
+    Wikiversity
+
+Languages
+
+    العربية
+    Español
+    हिन्दी
+    Bahasa Indonesia
+    Bahasa Melayu
+    日本語
+    Русский
+    اردو
+    中文
+
+Edit links
+
+    This page was last edited on 4 August 2020, at 00:14 (UTC).
+    Text is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+    Privacy policy
+    About Wikipedia
+    Disclaimers
+    Contact Wikipedia
+    Developers
+    Statistics
+    Cookie statement
+    Mobile view
+
+    Wikimedia Foundation
+    Powered by MediaWiki
+
