@@ -40,7 +40,8 @@ public class DistributedWordCount2 {
     }
   }
 
-  public static void countWordsInFileAndUpdateCounter(String file, ActorHandle<Counter> counter) {
+  public static void countWordsInFileAndUpdateCounter(String file, ActorHandle<Counter> counter)
+      throws IOException {
     Map<String, Integer> counts = WordCount.countWordsInFile(file);
     counter.task(Counter::update, counts).remote();
   }

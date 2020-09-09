@@ -20,10 +20,12 @@ public class DistributedWordCount {
       // Ray can turn any Java static method into a Ray remote function.
       // This will immediately return an `ObjectRef` (a future), and then spawn a task that runs remotely.
       // All these tasks will run in parallel.
-      ObjectRef<Map<String, Integer>> objectRef = Ray.task(WordCount::countWordsInFile, "files/" + i + ".txt").remote();
+      ObjectRef<Map<String, Integer>> objectRef = Ray
+          .task(WordCount::countWordsInFile, "files/" + i + ".txt").remote();
       objectRefs.add(objectRef);
     }
-    // Synchronously get all the results and merge them.
+    // Synchronously get all the results.
+    List<Map<String, Integer>> results = Ray.get(objectRefs);
     Ray.get(objectRefs).forEach(counts -> {
       counts.forEach((word, count) -> {
         totalCounts.put(word, totalCounts.getOrDefault(word, 0) + count);

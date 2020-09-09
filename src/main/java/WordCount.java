@@ -16,21 +16,17 @@ public class WordCount {
   /**
    * Count the occurrence of each word in a file.
    */
-  public static Map<String, Integer> countWordsInFile(String fileName) {
+  public static Map<String, Integer> countWordsInFile(String fileName) throws IOException {
     Map<String, Integer> counts = new HashMap<>();
-    try {
-      for (String line : Files.readAllLines(Paths.get(fileName), Charset.defaultCharset())) {
-        for (String word : line.split("\\s+")) {
-          counts.put(word, counts.getOrDefault(word, 0) + 1);
-        }
+    for (String line : Files.readAllLines(Paths.get(fileName), Charset.defaultCharset())) {
+      for (String word : line.split("\\s+")) {
+        counts.put(word, counts.getOrDefault(word, 0) + 1);
       }
-    } catch (IOException e) {
-      e.printStackTrace();
     }
     return counts;
   }
 
-  public static void main(String[] args) {
+  public static void main(String[] args) throws IOException {
     Map<String, Integer> totalCounts = new HashMap<>();
     for (int i = 0; i < NUM_FILES; i++) {
       // Count words in each file and add them to the final result.
